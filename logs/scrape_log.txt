@@ -1,0 +1,482 @@
+Error fetching grid_layout from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching navigation from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching feature from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching main-content from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching service-links from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching featured-media from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching hero_description from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching nav_primary from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching feature_media from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching hero_description from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching nav_primary from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching feature_media from https://www.nasa.gov/: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching nw-c-top-stories__title from https://www.bbc.com/news: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching nw-c-nav__wide from https://www.bbc.com/news: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching gs-c-promo-image from https://www.bbc.com/news: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-welcome from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-upper from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching MainPageBG from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-welcome from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-upper from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching MainPageBG from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-welcome from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-upper from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching MainPageBG from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-welcome from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-upper from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching MainPageBG from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-welcome from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-upper from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching MainPageBG from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-welcome from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching mp-upper from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching MainPageBG from https://en.wikipedia.org/wiki/Main_Page: Message: Unable to obtain driver for chrome; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors/driver_location
+
+Error fetching {'tag': 'div', 'id': 'mp-welcome'}: Message: Service /opt/homebrew/bin/chromedriver unexpectedly exited. Status code was: -9
+
+Error fetching {'tag': 'div', 'id': 'mp-upper'}: Message: Service /opt/homebrew/bin/chromedriver unexpectedly exited. Status code was: -9
+
+Error fetching {'tag': 'div', 'class': 'MainPageBG'}: Message: Service /opt/homebrew/bin/chromedriver unexpectedly exited. Status code was: -9
+
+Error fetching [{'tag': 'div', 'class': 'about-us-section'}, {'tag': 'main', 'class': 'content-main'}]: list indices must be integers or slices, not str
+Error fetching [{'tag': 'section', 'class': 'module--promo'}, {'tag': 'div', 'class': 'promo-content'}]: list indices must be integers or slices, not str
+Error fetching [{'tag': 'section', 'class': 'module--media'}, {'tag': 'div', 'class': 'media-section'}]: list indices must be integers or slices, not str
+Error fetching section with selectors footer a[href*="/about"]: string indices must be integers
+Error fetching section with selectors section[data-entityid="container-top-stories#1"]: string indices must be integers
+Error fetching section with selectors figure.media__image img: string indices must be integers
+Error fetching section with selectors footer a[href*="/about"]: string indices must be integers
+Error fetching section with selectors section[data-entityid="container-top-stories#1"]: string indices must be integers
+Error fetching section with selectors figure.media__image img: string indices must be integers
+Error fetching footer from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching div from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching img from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching footer from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching div from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching img from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching footer from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching div from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching img from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching section with selectors {'tag': 'footer'} from https://www.bbc.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'nav'} from https://www.bbc.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'img'} from https://www.bbc.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'footer', 'class': 'navFooterVerticalColumn'} from https://www.amazon.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'div', 'id': 'nav-main'} from https://www.amazon.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'img', 'id': 'landingImage'} from https://www.amazon.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'footer', 'class': 'footer-links'} from https://www.cnn.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'nav', 'class': 'main-nav'} from https://www.cnn.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'img', 'class': 'media__image'} from https://www.cnn.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'footer'} from https://www.bbc.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'nav'} from https://www.bbc.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'img'} from https://www.bbc.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'footer', 'class': 'navFooterVerticalColumn'} from https://www.amazon.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'div', 'id': 'nav-main'} from https://www.amazon.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'img', 'id': 'landingImage'} from https://www.amazon.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'footer', 'class': 'footer-links'} from https://www.cnn.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'nav', 'class': 'main-nav'} from https://www.cnn.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'img', 'class': 'media__image'} from https://www.cnn.com: 'str' object has no attribute 'get'
+Error fetching section with selectors {'tag': 'footer', 'class': 'navFooterVerticalColumn'} from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching section with selectors {'tag': 'div', 'id': 'nav-main'} from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching section with selectors {'tag': 'img', 'id': 'landingImage'} from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching section with selectors {} from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching section with selectors {} from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching section with selectors {} from https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+Error fetching section with selectors {'tag': 'footer'} from https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+Error fetching section with selectors {'tag': 'nav', 'class': 'ipc-html5'} from https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+Error fetching section with selectors {'tag': 'img'} from https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+Error fetching section with selectors {'tag': 'footer'} from https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+Error fetching section with selectors {'tag': 'nav', 'class': 'main-nav'} from https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+Error fetching section with selectors {'tag': 'img', 'class': 'media__image'} from https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+Error fetching section with selectors {'tag': 'footer'} from https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+Error fetching section with selectors {'tag': 'nav', 'class': 'service-nav'} from https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+Error fetching section with selectors {'tag': 'img', 'class': 'media-img'} from https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+Error fetching section with selectors {} from https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+Error fetching section with selectors {} from https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+Error fetching section with selectors {} from https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+Error fetching section with selectors {'tag': 'footer'} from https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+Error fetching section with selectors {'tag': 'nav', 'class': 'main-nav'} from https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+Error fetching section with selectors {'tag': 'img', 'class': 'media-img'} from https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+Error fetching section with selectors {'tag': 'footer'} from https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+Error fetching section with selectors {'tag': 'nav'} from https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+Error fetching section with selectors {'tag': 'img'} from https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+Error fetching section with selectors {'tag': 'footer'} from https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+Error fetching section with selectors {'tag': 'nav'} from https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+Error fetching section with selectors {'tag': 'img'} from https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+Error fetching section with selectors {'tag': 'footer'} from https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+Error fetching section with selectors {'tag': 'nav'} from https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+Error fetching section with selectors {'tag': 'img'} from https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:12:09 - HTTP error while fetching https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+2024-11-02 06:12:12 - HTTP error while fetching https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+2024-11-02 06:12:14 - HTTP error while fetching https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+2024-11-02 06:12:16 - Failed to fetch https://www.amazon.com after 3 attempts
+2024-11-02 06:12:17 - HTTP error while fetching https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+2024-11-02 06:12:20 - HTTP error while fetching https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+2024-11-02 06:12:23 - HTTP error while fetching https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+2024-11-02 06:12:25 - Failed to fetch https://www.amazon.com after 3 attempts
+2024-11-02 06:12:26 - HTTP error while fetching https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+2024-11-02 06:12:29 - HTTP error while fetching https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+2024-11-02 06:12:32 - HTTP error while fetching https://www.amazon.com: 503 Server Error: Service Unavailable for url: https://www.amazon.com/
+2024-11-02 06:12:34 - Failed to fetch https://www.amazon.com after 3 attempts
+2024-11-02 06:12:36 - No matching section found for selectors: [{'tag': 'nav', 'class': 'css-14rh5zi'}] on https://www.nytimes.com
+2024-11-02 06:12:36 - No matching section found for selectors: [{'tag': 'img', 'class': 'css-1m50asq'}] on https://www.nytimes.com
+2024-11-02 06:12:41 - No matching section found for selectors: [{'tag': 'img'}] on https://www.forbes.com
+2024-11-02 06:12:42 - HTTP error while fetching https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+2024-11-02 06:12:44 - HTTP error while fetching https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+2024-11-02 06:12:46 - HTTP error while fetching https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+2024-11-02 06:12:48 - Failed to fetch https://www.imdb.com after 3 attempts
+2024-11-02 06:12:49 - HTTP error while fetching https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+2024-11-02 06:12:51 - HTTP error while fetching https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+2024-11-02 06:12:53 - HTTP error while fetching https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+2024-11-02 06:12:55 - Failed to fetch https://www.imdb.com after 3 attempts
+2024-11-02 06:12:56 - HTTP error while fetching https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+2024-11-02 06:12:58 - HTTP error while fetching https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+2024-11-02 06:13:00 - HTTP error while fetching https://www.imdb.com: 403 Client Error: Forbidden for url: https://www.imdb.com/
+2024-11-02 06:13:02 - Failed to fetch https://www.imdb.com after 3 attempts
+2024-11-02 06:13:03 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.medium.com
+2024-11-02 06:13:03 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.medium.com
+2024-11-02 06:13:04 - HTTP error while fetching https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+2024-11-02 06:13:06 - HTTP error while fetching https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+2024-11-02 06:13:08 - HTTP error while fetching https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+2024-11-02 06:13:10 - Failed to fetch https://www.espn.com after 3 attempts
+2024-11-02 06:13:10 - HTTP error while fetching https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+2024-11-02 06:13:13 - HTTP error while fetching https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+2024-11-02 06:13:15 - HTTP error while fetching https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+2024-11-02 06:13:17 - Failed to fetch https://www.espn.com after 3 attempts
+2024-11-02 06:13:17 - HTTP error while fetching https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+2024-11-02 06:13:19 - HTTP error while fetching https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+2024-11-02 06:13:21 - HTTP error while fetching https://www.espn.com: 403 Client Error: Forbidden for url: https://www.espn.com/
+2024-11-02 06:13:23 - Failed to fetch https://www.espn.com after 3 attempts
+2024-11-02 06:13:23 - HTTP error while fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-11-02 06:13:25 - HTTP error while fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-11-02 06:13:28 - HTTP error while fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-11-02 06:13:30 - Failed to fetch https://www.reuters.com after 3 attempts
+2024-11-02 06:13:30 - HTTP error while fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-11-02 06:13:32 - HTTP error while fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-11-02 06:13:34 - HTTP error while fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-11-02 06:13:36 - Failed to fetch https://www.reuters.com after 3 attempts
+2024-11-02 06:13:36 - HTTP error while fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-11-02 06:13:38 - HTTP error while fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-11-02 06:13:40 - HTTP error while fetching https://www.reuters.com: 401 Client Error: HTTP Forbidden for url: https://www.reuters.com/
+2024-11-02 06:13:42 - Failed to fetch https://www.reuters.com after 3 attempts
+2024-11-02 06:13:50 - No matching section found for selectors: [{'tag': 'nav', 'class': 'main-nav'}] on https://www.linkedin.com
+2024-11-02 06:13:52 - No matching section found for selectors: [{'tag': 'img'}] on https://www.github.com
+2024-11-02 06:13:52 - No matching section found for selectors: [{'tag': 'nav', 'class': 'main-nav'}] on https://www.huffpost.com
+2024-11-02 06:14:00 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.cnbc.com
+2024-11-02 06:14:01 - No matching section found for selectors: [{'tag': 'img', 'class': 'media__image'}] on https://www.cnbc.com
+2024-11-02 06:14:03 - HTTP error while fetching https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+2024-11-02 06:14:05 - HTTP error while fetching https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+2024-11-02 06:14:07 - HTTP error while fetching https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+2024-11-02 06:14:09 - Failed to fetch https://www.latimes.com after 3 attempts
+2024-11-02 06:14:09 - HTTP error while fetching https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+2024-11-02 06:14:11 - HTTP error while fetching https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+2024-11-02 06:14:13 - HTTP error while fetching https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+2024-11-02 06:14:15 - Failed to fetch https://www.latimes.com after 3 attempts
+2024-11-02 06:14:15 - HTTP error while fetching https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+2024-11-02 06:14:18 - HTTP error while fetching https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+2024-11-02 06:14:20 - HTTP error while fetching https://www.latimes.com: 403 Client Error: Forbidden for url: https://www.latimes.com/
+2024-11-02 06:14:22 - Failed to fetch https://www.latimes.com after 3 attempts
+2024-11-02 06:14:44 - No matching section found for selectors: [{'tag': 'nav', 'class': 'main-nav'}] on https://www.mashable.com
+2024-11-02 06:14:44 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.buzzfeed.com
+2024-11-02 06:14:45 - HTTP error while fetching https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-11-02 06:14:47 - HTTP error while fetching https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-11-02 06:14:49 - HTTP error while fetching https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-11-02 06:14:51 - Failed to fetch https://www.kickstarter.com after 3 attempts
+2024-11-02 06:14:52 - HTTP error while fetching https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-11-02 06:14:54 - HTTP error while fetching https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-11-02 06:14:56 - HTTP error while fetching https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-11-02 06:14:58 - Failed to fetch https://www.kickstarter.com after 3 attempts
+2024-11-02 06:14:58 - HTTP error while fetching https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-11-02 06:15:00 - HTTP error while fetching https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-11-02 06:15:03 - HTTP error while fetching https://www.kickstarter.com: 403 Client Error: Forbidden for url: https://www.kickstarter.com/
+2024-11-02 06:15:05 - Failed to fetch https://www.kickstarter.com after 3 attempts
+2024-11-02 06:15:05 - No matching section found for selectors: [{'tag': 'img'}] on https://www.ted.com
+2024-11-02 06:15:10 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.netflix.com
+2024-11-02 06:15:18 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.yahoo.com
+2024-11-02 06:15:25 - HTTP error while fetching https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+2024-11-02 06:15:27 - HTTP error while fetching https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+2024-11-02 06:15:29 - HTTP error while fetching https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+2024-11-02 06:15:31 - Failed to fetch https://www.unicef.org after 3 attempts
+2024-11-02 06:15:31 - HTTP error while fetching https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+2024-11-02 06:15:33 - HTTP error while fetching https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+2024-11-02 06:15:36 - HTTP error while fetching https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+2024-11-02 06:15:38 - Failed to fetch https://www.unicef.org after 3 attempts
+2024-11-02 06:15:38 - HTTP error while fetching https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+2024-11-02 06:15:40 - HTTP error while fetching https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+2024-11-02 06:15:42 - HTTP error while fetching https://www.unicef.org: 403 Client Error: Forbidden for url: https://www.unicef.org/
+2024-11-02 06:15:44 - Failed to fetch https://www.unicef.org after 3 attempts
+2024-11-02 06:15:45 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.spotify.com
+2024-11-02 06:15:46 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.spotify.com
+2024-11-02 06:15:48 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.adobe.com
+2024-11-02 06:15:48 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.adobe.com
+2024-11-02 06:15:48 - No matching section found for selectors: [{'tag': 'img'}] on https://www.adobe.com
+2024-11-02 06:15:49 - No matching section found for selectors: [{'tag': 'img'}] on https://www.apple.com
+2024-11-02 06:15:52 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.opera.com
+2024-11-02 06:15:58 - HTTP error while fetching https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+2024-11-02 06:16:00 - HTTP error while fetching https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+2024-11-02 06:16:02 - HTTP error while fetching https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+2024-11-02 06:16:04 - Failed to fetch https://www.canva.com after 3 attempts
+2024-11-02 06:16:04 - HTTP error while fetching https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+2024-11-02 06:16:07 - HTTP error while fetching https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+2024-11-02 06:16:09 - HTTP error while fetching https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+2024-11-02 06:16:11 - Failed to fetch https://www.canva.com after 3 attempts
+2024-11-02 06:16:11 - HTTP error while fetching https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+2024-11-02 06:16:13 - HTTP error while fetching https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+2024-11-02 06:16:15 - HTTP error while fetching https://www.canva.com: 403 Client Error: Forbidden for url: https://www.canva.com/
+2024-11-02 06:16:17 - Failed to fetch https://www.canva.com after 3 attempts
+2024-11-02 06:16:18 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.soundcloud.com
+2024-11-02 06:16:19 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.soundcloud.com
+2024-11-02 06:16:20 - No matching section found for selectors: [{'tag': 'img'}] on https://www.soundcloud.com
+2024-11-02 06:16:21 - HTTP error while fetching https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:16:23 - HTTP error while fetching https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:16:25 - HTTP error while fetching https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:16:27 - Failed to fetch https://www.etsy.com after 3 attempts
+2024-11-02 06:16:27 - HTTP error while fetching https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:16:29 - HTTP error while fetching https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:16:31 - HTTP error while fetching https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:16:33 - Failed to fetch https://www.etsy.com after 3 attempts
+2024-11-02 06:16:33 - HTTP error while fetching https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:16:35 - HTTP error while fetching https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:16:38 - HTTP error while fetching https://www.etsy.com: 403 Client Error: Forbidden for url: https://www.etsy.com/
+2024-11-02 06:16:40 - Failed to fetch https://www.etsy.com after 3 attempts
+2024-11-02 06:16:50 - Request error while fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:17:02 - Request error while fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:17:14 - Request error while fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:17:16 - Failed to fetch https://www.washingtonpost.com after 3 attempts
+2024-11-02 06:17:26 - Request error while fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:17:38 - Request error while fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:17:50 - Request error while fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:17:52 - Failed to fetch https://www.washingtonpost.com after 3 attempts
+2024-11-02 06:18:02 - Request error while fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:18:14 - Request error while fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:18:26 - Request error while fetching https://www.washingtonpost.com: HTTPSConnectionPool(host='www.washingtonpost.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:18:28 - Failed to fetch https://www.washingtonpost.com after 3 attempts
+2024-11-02 06:18:29 - HTTP error while fetching https://www.nypost.com: 403 Client Error: Forbidden for url: https://www.nypost.com/
+2024-11-02 06:18:32 - HTTP error while fetching https://www.nypost.com: 403 Client Error: Forbidden for url: https://www.nypost.com/
+2024-11-02 06:18:34 - HTTP error while fetching https://www.nypost.com: 403 Client Error: Forbidden for url: https://www.nypost.com/
+2024-11-02 06:18:36 - Failed to fetch https://www.nypost.com after 3 attempts
+2024-11-02 06:18:37 - HTTP error while fetching https://www.nypost.com: 403 Client Error: Forbidden for url: https://www.nypost.com/
+2024-11-02 06:18:39 - HTTP error while fetching https://www.nypost.com: 403 Client Error: Forbidden for url: https://www.nypost.com/
+2024-11-02 06:18:42 - HTTP error while fetching https://www.nypost.com: 403 Client Error: Forbidden for url: https://www.nypost.com/
+2024-11-02 06:18:44 - Failed to fetch https://www.nypost.com after 3 attempts
+2024-11-02 06:18:44 - HTTP error while fetching https://www.nypost.com: 403 Client Error: Forbidden for url: https://www.nypost.com/
+2024-11-02 06:18:47 - HTTP error while fetching https://www.nypost.com: 403 Client Error: Forbidden for url: https://www.nypost.com/
+2024-11-02 06:18:49 - HTTP error while fetching https://www.nypost.com: 403 Client Error: Forbidden for url: https://www.nypost.com/
+2024-11-02 06:18:51 - Failed to fetch https://www.nypost.com after 3 attempts
+2024-11-02 06:19:08 - Request error while fetching https://www.people.com: HTTPSConnectionPool(host='www.people.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 06:19:18 - HTTP error while fetching https://www.people.com: 405 Client Error: Signal - Not Acceptable for url: https://www.people.com/
+2024-11-02 06:19:26 - HTTP error while fetching https://www.people.com: 405 Client Error: Signal - Not Acceptable for url: https://www.people.com/
+2024-11-02 06:19:28 - Failed to fetch https://www.people.com after 3 attempts
+2024-11-02 06:19:34 - HTTP error while fetching https://www.people.com: 405 Client Error: Signal - Not Acceptable for url: https://www.people.com/
+2024-11-02 06:19:42 - HTTP error while fetching https://www.people.com: 405 Client Error: Signal - Not Acceptable for url: https://www.people.com/
+2024-11-02 06:19:51 - HTTP error while fetching https://www.people.com: 405 Client Error: Signal - Not Acceptable for url: https://www.people.com/
+2024-11-02 06:19:53 - Failed to fetch https://www.people.com after 3 attempts
+2024-11-02 06:20:00 - HTTP error while fetching https://www.people.com: 405 Client Error: Signal - Not Acceptable for url: https://www.people.com/
+2024-11-02 06:20:09 - HTTP error while fetching https://www.people.com: 405 Client Error: Signal - Not Acceptable for url: https://www.people.com/
+2024-11-02 06:20:18 - HTTP error while fetching https://www.people.com: 405 Client Error: Signal - Not Acceptable for url: https://www.people.com/
+2024-11-02 06:20:20 - Failed to fetch https://www.people.com after 3 attempts
+2024-11-02 06:20:34 - HTTP error while fetching https://www.berkeley.edu: 403 Client Error: Forbidden for url: https://www.berkeley.edu/
+2024-11-02 06:20:37 - HTTP error while fetching https://www.berkeley.edu: 403 Client Error: Forbidden for url: https://www.berkeley.edu/
+2024-11-02 06:20:39 - HTTP error while fetching https://www.berkeley.edu: 403 Client Error: Forbidden for url: https://www.berkeley.edu/
+2024-11-02 06:20:41 - Failed to fetch https://www.berkeley.edu after 3 attempts
+2024-11-02 06:20:42 - HTTP error while fetching https://www.berkeley.edu: 403 Client Error: Forbidden for url: https://www.berkeley.edu/
+2024-11-02 06:20:44 - HTTP error while fetching https://www.berkeley.edu: 403 Client Error: Forbidden for url: https://www.berkeley.edu/
+2024-11-02 06:20:47 - HTTP error while fetching https://www.berkeley.edu: 403 Client Error: Forbidden for url: https://www.berkeley.edu/
+2024-11-02 06:20:49 - Failed to fetch https://www.berkeley.edu after 3 attempts
+2024-11-02 06:20:49 - HTTP error while fetching https://www.berkeley.edu: 403 Client Error: Forbidden for url: https://www.berkeley.edu/
+2024-11-02 06:20:55 - HTTP error while fetching https://www.berkeley.edu: 403 Client Error: Forbidden for url: https://www.berkeley.edu/
+2024-11-02 06:20:57 - HTTP error while fetching https://www.berkeley.edu: 403 Client Error: Forbidden for url: https://www.berkeley.edu/
+2024-11-02 06:20:59 - Failed to fetch https://www.berkeley.edu after 3 attempts
+2024-11-02 06:21:01 - HTTP error while fetching https://www.hindustantimes.com: 401 Client Error: Unauthorized for url: https://www.hindustantimes.com/
+2024-11-02 06:21:03 - HTTP error while fetching https://www.hindustantimes.com: 401 Client Error: Unauthorized for url: https://www.hindustantimes.com/
+2024-11-02 06:21:05 - HTTP error while fetching https://www.hindustantimes.com: 401 Client Error: Unauthorized for url: https://www.hindustantimes.com/
+2024-11-02 06:21:07 - Failed to fetch https://www.hindustantimes.com after 3 attempts
+2024-11-02 06:21:07 - HTTP error while fetching https://www.hindustantimes.com: 401 Client Error: Unauthorized for url: https://www.hindustantimes.com/
+2024-11-02 06:21:09 - HTTP error while fetching https://www.hindustantimes.com: 401 Client Error: Unauthorized for url: https://www.hindustantimes.com/
+2024-11-02 06:21:11 - HTTP error while fetching https://www.hindustantimes.com: 401 Client Error: Unauthorized for url: https://www.hindustantimes.com/
+2024-11-02 06:21:13 - Failed to fetch https://www.hindustantimes.com after 3 attempts
+2024-11-02 06:21:14 - HTTP error while fetching https://www.hindustantimes.com: 401 Client Error: Unauthorized for url: https://www.hindustantimes.com/
+2024-11-02 06:21:16 - HTTP error while fetching https://www.hindustantimes.com: 401 Client Error: Unauthorized for url: https://www.hindustantimes.com/
+2024-11-02 06:21:18 - HTTP error while fetching https://www.hindustantimes.com: 401 Client Error: Unauthorized for url: https://www.hindustantimes.com/
+2024-11-02 06:21:20 - Failed to fetch https://www.hindustantimes.com after 3 attempts
+2024-11-02 06:21:21 - HTTP error while fetching https://www.financialexpress.com: 403 Client Error: Forbidden for url: https://www.financialexpress.com/
+2024-11-02 06:21:23 - HTTP error while fetching https://www.financialexpress.com: 403 Client Error: Forbidden for url: https://www.financialexpress.com/
+2024-11-02 06:21:25 - HTTP error while fetching https://www.financialexpress.com: 403 Client Error: Forbidden for url: https://www.financialexpress.com/
+2024-11-02 06:21:27 - Failed to fetch https://www.financialexpress.com after 3 attempts
+2024-11-02 06:21:28 - HTTP error while fetching https://www.financialexpress.com: 403 Client Error: Forbidden for url: https://www.financialexpress.com/
+2024-11-02 06:21:30 - HTTP error while fetching https://www.financialexpress.com: 403 Client Error: Forbidden for url: https://www.financialexpress.com/
+2024-11-02 06:21:32 - HTTP error while fetching https://www.financialexpress.com: 403 Client Error: Forbidden for url: https://www.financialexpress.com/
+2024-11-02 06:21:34 - Failed to fetch https://www.financialexpress.com after 3 attempts
+2024-11-02 06:21:34 - HTTP error while fetching https://www.financialexpress.com: 403 Client Error: Forbidden for url: https://www.financialexpress.com/
+2024-11-02 06:21:36 - HTTP error while fetching https://www.financialexpress.com: 403 Client Error: Forbidden for url: https://www.financialexpress.com/
+2024-11-02 06:21:38 - HTTP error while fetching https://www.financialexpress.com: 403 Client Error: Forbidden for url: https://www.financialexpress.com/
+2024-11-02 06:21:40 - Failed to fetch https://www.financialexpress.com after 3 attempts
+2024-11-02 06:54:28 - Request error while fetching https://www.telegraph.co.uk: HTTPSConnectionPool(host='www.telegraph.co.uk', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:21:15 - Request error while fetching https://www.telegraph.co.uk: HTTPSConnectionPool(host='www.telegraph.co.uk', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:21:50 - Request error while fetching https://www.cbc.ca: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:22:02 - Request error while fetching https://www.cbc.ca: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:22:14 - Request error while fetching https://www.cbc.ca: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:22:16 - Failed to fetch https://www.cbc.ca after 3 attempts
+2024-11-02 07:22:26 - Request error while fetching https://www.cbc.ca: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:22:38 - Request error while fetching https://www.cbc.ca: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:22:50 - Request error while fetching https://www.cbc.ca: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:22:52 - Failed to fetch https://www.cbc.ca after 3 attempts
+2024-11-02 07:23:02 - Request error while fetching https://www.cbc.ca: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:23:14 - Request error while fetching https://www.cbc.ca: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:23:27 - Request error while fetching https://www.cbc.ca: HTTPSConnectionPool(host='www.cbc.ca', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:23:29 - Failed to fetch https://www.cbc.ca after 3 attempts
+2024-11-02 07:23:36 - HTTP error while fetching https://www.inc.com: 403 Client Error: Forbidden for url: https://www.inc.com/
+2024-11-02 07:23:39 - HTTP error while fetching https://www.inc.com: 403 Client Error: Forbidden for url: https://www.inc.com/
+2024-11-02 07:23:41 - HTTP error while fetching https://www.inc.com: 403 Client Error: Forbidden for url: https://www.inc.com/
+2024-11-02 07:23:43 - Failed to fetch https://www.inc.com after 3 attempts
+2024-11-02 07:23:43 - HTTP error while fetching https://www.inc.com: 403 Client Error: Forbidden for url: https://www.inc.com/
+2024-11-02 07:23:45 - HTTP error while fetching https://www.inc.com: 403 Client Error: Forbidden for url: https://www.inc.com/
+2024-11-02 07:23:47 - HTTP error while fetching https://www.inc.com: 403 Client Error: Forbidden for url: https://www.inc.com/
+2024-11-02 07:23:49 - Failed to fetch https://www.inc.com after 3 attempts
+2024-11-02 07:23:49 - HTTP error while fetching https://www.inc.com: 403 Client Error: Forbidden for url: https://www.inc.com/
+2024-11-02 07:23:51 - HTTP error while fetching https://www.inc.com: 403 Client Error: Forbidden for url: https://www.inc.com/
+2024-11-02 07:23:54 - HTTP error while fetching https://www.inc.com: 403 Client Error: Forbidden for url: https://www.inc.com/
+2024-11-02 07:23:56 - Failed to fetch https://www.inc.com after 3 attempts
+2024-11-02 07:24:58 - Request error while fetching https://www.businessinsider.com: HTTPSConnectionPool(host='www.businessinsider.in', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:25:17 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.si.com
+2024-11-02 07:25:22 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.bleacherreport.com
+2024-11-02 07:27:28 - HTTP error while fetching https://www.nyu.edu: 403 Client Error: Forbidden for url: https://www.nyu.edu/
+2024-11-02 07:27:31 - HTTP error while fetching https://www.nyu.edu: 403 Client Error: Forbidden for url: https://www.nyu.edu/
+2024-11-02 07:27:34 - HTTP error while fetching https://www.nyu.edu: 403 Client Error: Forbidden for url: https://www.nyu.edu/
+2024-11-02 07:27:36 - Failed to fetch https://www.nyu.edu after 3 attempts
+2024-11-02 07:27:37 - HTTP error while fetching https://www.nyu.edu: 403 Client Error: Forbidden for url: https://www.nyu.edu/
+2024-11-02 07:27:39 - HTTP error while fetching https://www.nyu.edu: 403 Client Error: Forbidden for url: https://www.nyu.edu/
+2024-11-02 07:27:42 - HTTP error while fetching https://www.nyu.edu: 403 Client Error: Forbidden for url: https://www.nyu.edu/
+2024-11-02 07:27:44 - Failed to fetch https://www.nyu.edu after 3 attempts
+2024-11-02 07:27:45 - HTTP error while fetching https://www.nyu.edu: 403 Client Error: Forbidden for url: https://www.nyu.edu/
+2024-11-02 07:27:48 - HTTP error while fetching https://www.nyu.edu: 403 Client Error: Forbidden for url: https://www.nyu.edu/
+2024-11-02 07:27:50 - HTTP error while fetching https://www.nyu.edu: 403 Client Error: Forbidden for url: https://www.nyu.edu/
+2024-11-02 07:27:52 - Failed to fetch https://www.nyu.edu after 3 attempts
+2024-11-02 07:28:07 - Request error while fetching https://www.adidas.com: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-11-02 07:28:19 - Request error while fetching https://www.adidas.com: HTTPSConnectionPool(host='www.adidas.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:28:21 - Request error while fetching https://www.adidas.com: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-11-02 07:28:24 - Failed to fetch https://www.adidas.com after 3 attempts
+2024-11-02 07:28:24 - Request error while fetching https://www.adidas.com: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-11-02 07:28:36 - Request error while fetching https://www.adidas.com: HTTPSConnectionPool(host='www.adidas.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:28:48 - Request error while fetching https://www.adidas.com: HTTPSConnectionPool(host='www.adidas.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:28:50 - Failed to fetch https://www.adidas.com after 3 attempts
+2024-11-02 07:29:00 - Request error while fetching https://www.adidas.com: HTTPSConnectionPool(host='www.adidas.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:29:12 - Request error while fetching https://www.adidas.com: HTTPSConnectionPool(host='www.adidas.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:29:15 - Request error while fetching https://www.adidas.com: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-11-02 07:29:17 - Failed to fetch https://www.adidas.com after 3 attempts
+2024-11-02 07:29:25 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.reebok.com
+2024-11-02 07:29:30 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.goldmansachs.com
+2024-11-02 07:29:47 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.citigroup.com
+2024-11-02 07:29:51 - Request error while fetching https://www.charles.com: HTTPSConnectionPool(host='www.charles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+2024-11-02 07:29:53 - Request error while fetching https://www.charles.com: HTTPSConnectionPool(host='www.charles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+2024-11-02 07:29:55 - Request error while fetching https://www.charles.com: HTTPSConnectionPool(host='www.charles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+2024-11-02 07:29:57 - Failed to fetch https://www.charles.com after 3 attempts
+2024-11-02 07:29:58 - Request error while fetching https://www.charles.com: HTTPSConnectionPool(host='www.charles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+2024-11-02 07:30:00 - Request error while fetching https://www.charles.com: HTTPSConnectionPool(host='www.charles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+2024-11-02 07:30:02 - Request error while fetching https://www.charles.com: HTTPSConnectionPool(host='www.charles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+2024-11-02 07:30:04 - Failed to fetch https://www.charles.com after 3 attempts
+2024-11-02 07:30:04 - Request error while fetching https://www.charles.com: HTTPSConnectionPool(host='www.charles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+2024-11-02 07:30:07 - Request error while fetching https://www.charles.com: HTTPSConnectionPool(host='www.charles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+2024-11-02 07:30:09 - Request error while fetching https://www.charles.com: HTTPSConnectionPool(host='www.charles.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)')))
+2024-11-02 07:30:11 - Failed to fetch https://www.charles.com after 3 attempts
+2024-11-02 07:30:18 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.americanexpress.com
+2024-11-02 07:30:20 - HTTP error while fetching https://www.honda.com: 403 Client Error: Forbidden for url: https://www.honda.com/
+2024-11-02 07:30:22 - HTTP error while fetching https://www.honda.com: 403 Client Error: Forbidden for url: https://www.honda.com/
+2024-11-02 07:30:24 - HTTP error while fetching https://www.honda.com: 403 Client Error: Forbidden for url: https://www.honda.com/
+2024-11-02 07:30:26 - Failed to fetch https://www.honda.com after 3 attempts
+2024-11-02 07:30:26 - HTTP error while fetching https://www.honda.com: 403 Client Error: Forbidden for url: https://www.honda.com/
+2024-11-02 07:30:28 - HTTP error while fetching https://www.honda.com: 403 Client Error: Forbidden for url: https://www.honda.com/
+2024-11-02 07:30:30 - HTTP error while fetching https://www.honda.com: 403 Client Error: Forbidden for url: https://www.honda.com/
+2024-11-02 07:30:32 - Failed to fetch https://www.honda.com after 3 attempts
+2024-11-02 07:30:33 - HTTP error while fetching https://www.honda.com: 403 Client Error: Forbidden for url: https://www.honda.com/
+2024-11-02 07:30:35 - HTTP error while fetching https://www.honda.com: 403 Client Error: Forbidden for url: https://www.honda.com/
+2024-11-02 07:30:37 - HTTP error while fetching https://www.honda.com: 403 Client Error: Forbidden for url: https://www.honda.com/
+2024-11-02 07:30:39 - Failed to fetch https://www.honda.com after 3 attempts
+2024-11-02 07:30:46 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.chevrolet.com
+2024-11-02 07:30:47 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.chevrolet.com
+2024-11-02 07:30:48 - No matching section found for selectors: [{'tag': 'img'}] on https://www.mercedes-benz.com
+2024-11-02 07:31:02 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.kia.com
+2024-11-02 07:31:15 - Request error while fetching https://www.tesla.com: HTTPSConnectionPool(host='www.tesla.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:31:27 - Request error while fetching https://www.tesla.com: HTTPSConnectionPool(host='www.tesla.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:31:39 - Request error while fetching https://www.tesla.com: HTTPSConnectionPool(host='www.tesla.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:31:41 - Failed to fetch https://www.tesla.com after 3 attempts
+2024-11-02 07:31:51 - Request error while fetching https://www.tesla.com: HTTPSConnectionPool(host='www.tesla.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:32:03 - Request error while fetching https://www.tesla.com: HTTPSConnectionPool(host='www.tesla.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:32:15 - Request error while fetching https://www.tesla.com: HTTPSConnectionPool(host='www.tesla.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:32:17 - Failed to fetch https://www.tesla.com after 3 attempts
+2024-11-02 07:32:27 - Request error while fetching https://www.tesla.com: HTTPSConnectionPool(host='www.tesla.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:32:40 - Request error while fetching https://www.tesla.com: HTTPSConnectionPool(host='www.tesla.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:32:52 - Request error while fetching https://www.tesla.com: HTTPSConnectionPool(host='www.tesla.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:32:54 - Failed to fetch https://www.tesla.com after 3 attempts
+2024-11-02 07:33:01 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.fiat.com
+2024-11-02 07:33:04 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.mitsubishi-motors.com
+2024-11-02 07:33:08 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.subaru.com
+2024-11-02 07:33:09 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.subaru.com
+2024-11-02 07:33:13 - HTTP error while fetching https://www.volvocars.com: 403 Client Error: Forbidden for url: https://www.volvocars.com/
+2024-11-02 07:33:15 - HTTP error while fetching https://www.volvocars.com: 403 Client Error: Forbidden for url: https://www.volvocars.com/
+2024-11-02 07:33:17 - HTTP error while fetching https://www.volvocars.com: 403 Client Error: Forbidden for url: https://www.volvocars.com/
+2024-11-02 07:33:19 - Failed to fetch https://www.volvocars.com after 3 attempts
+2024-11-02 07:33:19 - HTTP error while fetching https://www.volvocars.com: 403 Client Error: Forbidden for url: https://www.volvocars.com/
+2024-11-02 07:33:22 - HTTP error while fetching https://www.volvocars.com: 403 Client Error: Forbidden for url: https://www.volvocars.com/
+2024-11-02 07:33:24 - HTTP error while fetching https://www.volvocars.com: 403 Client Error: Forbidden for url: https://www.volvocars.com/
+2024-11-02 07:33:26 - Failed to fetch https://www.volvocars.com after 3 attempts
+2024-11-02 07:33:26 - HTTP error while fetching https://www.volvocars.com: 403 Client Error: Forbidden for url: https://www.volvocars.com/
+2024-11-02 07:33:28 - HTTP error while fetching https://www.volvocars.com: 403 Client Error: Forbidden for url: https://www.volvocars.com/
+2024-11-02 07:33:30 - HTTP error while fetching https://www.volvocars.com: 403 Client Error: Forbidden for url: https://www.volvocars.com/
+2024-11-02 07:33:32 - Failed to fetch https://www.volvocars.com after 3 attempts
+2024-11-02 07:33:43 - Request error while fetching https://www.bentleymotors.com: ('Connection broken: IncompleteRead(222 bytes read, 23230 more expected)', IncompleteRead(222 bytes read, 23230 more expected))
+2024-11-02 07:33:45 - Request error while fetching https://www.bentleymotors.com: ('Connection broken: IncompleteRead(221 bytes read, 23231 more expected)', IncompleteRead(221 bytes read, 23231 more expected))
+2024-11-02 07:33:47 - Request error while fetching https://www.bentleymotors.com: ('Connection broken: IncompleteRead(222 bytes read, 23230 more expected)', IncompleteRead(222 bytes read, 23230 more expected))
+2024-11-02 07:33:49 - Failed to fetch https://www.bentleymotors.com after 3 attempts
+2024-11-02 07:33:50 - Request error while fetching https://www.bentleymotors.com: ('Connection broken: IncompleteRead(221 bytes read, 23231 more expected)', IncompleteRead(221 bytes read, 23231 more expected))
+2024-11-02 07:33:52 - Request error while fetching https://www.bentleymotors.com: ('Connection broken: IncompleteRead(221 bytes read, 23231 more expected)', IncompleteRead(221 bytes read, 23231 more expected))
+2024-11-02 07:33:54 - Request error while fetching https://www.bentleymotors.com: ('Connection broken: IncompleteRead(222 bytes read, 23230 more expected)', IncompleteRead(222 bytes read, 23230 more expected))
+2024-11-02 07:33:56 - Failed to fetch https://www.bentleymotors.com after 3 attempts
+2024-11-02 07:33:56 - Request error while fetching https://www.bentleymotors.com: ('Connection broken: IncompleteRead(221 bytes read, 23231 more expected)', IncompleteRead(221 bytes read, 23231 more expected))
+2024-11-02 07:33:59 - Request error while fetching https://www.bentleymotors.com: ('Connection broken: IncompleteRead(221 bytes read, 23231 more expected)', IncompleteRead(221 bytes read, 23231 more expected))
+2024-11-02 07:34:01 - Request error while fetching https://www.bentleymotors.com: ('Connection broken: IncompleteRead(222 bytes read, 23230 more expected)', IncompleteRead(222 bytes read, 23230 more expected))
+2024-11-02 07:34:03 - Failed to fetch https://www.bentleymotors.com after 3 attempts
+2024-11-02 07:34:21 - Request error while fetching https://www.mini.com: HTTPSConnectionPool(host='www.mini.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:34:33 - Request error while fetching https://www.mini.com: HTTPSConnectionPool(host='www.mini.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:34:46 - Request error while fetching https://www.mini.com: HTTPSConnectionPool(host='www.mini.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:34:48 - Failed to fetch https://www.mini.com after 3 attempts
+2024-11-02 07:34:48 - Request error while fetching https://www.mini.com: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-11-02 07:35:00 - Request error while fetching https://www.mini.com: HTTPSConnectionPool(host='www.mini.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:35:02 - Request error while fetching https://www.mini.com: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-11-02 07:35:04 - Failed to fetch https://www.mini.com after 3 attempts
+2024-11-02 07:35:14 - Request error while fetching https://www.mini.com: HTTPSConnectionPool(host='www.mini.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:35:16 - Request error while fetching https://www.mini.com: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2024-11-02 07:35:29 - Request error while fetching https://www.mini.com: HTTPSConnectionPool(host='www.mini.com', port=443): Read timed out. (read timeout=10)
+2024-11-02 07:35:31 - Failed to fetch https://www.mini.com after 3 attempts
+2024-11-02 07:35:31 - No matching section found for selectors: [{'tag': 'footer'}] on https://www.ramtrucks.com
+2024-11-02 07:35:32 - No matching section found for selectors: [{'tag': 'nav'}] on https://www.ramtrucks.com

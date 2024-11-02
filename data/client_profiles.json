@@ -1,0 +1,993 @@
+[
+    {
+        "client": "bbc",
+        "about_us": "British Broadcasting Corporation - Home of the BBC. Contact: Terms of Use, Privacy Policy, Cookies, Accessibility Help, Advertise with Us.",
+        "services_offered": "Home, News, US Election, Sport, Business, Innovation, Culture, Arts, Travel, Earth, Video, Audio, Weather"
+    },
+    {
+        "client": "cnn",
+        "about_us": "CNN - Breaking News, Latest News, and Videos. Topics include US Politics, Business, Health, Entertainment, Style, Travel, Science, Climate, and Global Coverage. A Warner Bros. Discovery Company. © 2024.",
+        "services_offered": "Breaking News, World News, Politics, Business, Health, Entertainment, Style, Travel, Sports, Science, Climate, Ukraine-Russia War, Israel-Hamas War, Video and Live TV",
+        "media": "Multimedia offerings including live TV broadcasts, video content, global news coverage, and digital features."
+    },
+    {
+        "client": "nytimes",
+        "about_us": "The New York Times Company - Site Information, Accessibility, Advertising, Privacy Policy, Terms of Service.",
+        "services_offered": "Contact Us, Advertise, Work with Us, Subscriptions"
+    },
+    {
+        "client": "wikipedia",
+        "about_us": "Wikipedia, hosted by the Wikimedia Foundation, offers free access to a variety of projects like Wikivoyage, Wiktionary, and Commons. Content is available under the Creative Commons License.",
+        "services_offered": "Articles in multiple languages including English, Spanish, German, French, Japanese, and more."
+    },
+    {
+        "client": "forbes",
+        "about_us": "Forbes - Global media company, providing news and information on billionaires, innovation, leadership, money, business, and lifestyle. Known for Forbes Magazine, Forbes Councils, and Forbes Advisor.",
+        "services_offered": "Forbes Magazine, Forbes Books, Forbes Global Properties, Newsletters, Events"
+    },
+    {
+        "client": "theguardian",
+        "about_us": "The Guardian - Independent news organization covering global topics. Known for its in-depth journalism on news, opinion, sport, culture, lifestyle, and more.",
+        "services_offered": "News, Opinion, Sport, Culture, Lifestyle, Climate Crisis, World News, Tech, Science",
+        "media": "Multimedia including videos, podcasts, newsletters, and a digital archive"
+    },
+    {
+        "client": "npr",
+        "about_us": "NPR is a nonprofit media organization providing news, analysis, music, arts, and podcasts with a mission for public service journalism.",
+        "services_offered": "NPR offers a range of media services including news reporting, podcasts, shows, and cultural content across various platforms.",
+        "media": "Features segments like Tiny Desk Concerts, news podcasts, and multimedia stories across politics, health, science, culture, and music."
+    },
+    {
+        "client": "linkedin",
+        "about_us": "LinkedIn is a social network for professionals and businesses to connect, offering services in networking, job searching, and professional development.",
+        "services_offered": "Networking, job searching, professional development tools, and industry-specific community groups.",
+        "media": null
+    },
+    {
+        "client": "github",
+        "about_us": "GitHub is a platform for developers to collaborate on software projects, offering tools for version control, code review, and DevOps.",
+        "services_offered": "GitHub provides tools like GitHub Copilot, Security, Actions (workflow automation), Codespaces (dev environments), and project management features for teams.",
+        "media": "Documentation, blogs, community forums, and GitHub-hosted events."
+    },
+    {
+        "client": "huffpost",
+        "about_us": "HuffPost is an online news aggregator and blog offering content in politics, entertainment, lifestyle, and more.",
+        "services_offered": "News articles, opinion pieces, personal stories, and multimedia content in various lifestyle and news categories.",
+        "media": "Newsletters and RSS feeds for continuous news updates."
+    },
+    {
+        "client": "techcrunch",
+        "about_us": "TechCrunch is a leading technology media property focused on startups, tech news, and advancements in the tech industry.",
+        "services_offered": "Reports on startups, venture capital, tech security, AI, and apps.",
+        "media": "TechCrunch's multimedia channels include blogs, video interviews, and event coverage."
+    },
+    {
+        "client": "cnbc",
+        "about_us": "CNBC is a global news network providing real-time business, financial, and stock market updates along with analysis.",
+        "services_offered": "Business news, market data analysis, live streaming financial news, and newsletters.",
+        "media": "Live TV streaming, newsletters, and real-time data snapshots."
+    },
+    {
+        "client": "msnbc",
+        "about_us": "MSNBC is a news channel and website providing news coverage with a focus on politics, current events, and live broadcasts of shows.",
+        "services_offered": "Breaking news, political analysis, opinion columns, and live shows such as 'The Rachel Maddow Show,' 'Morning Joe,' and 'The ReidOut.'",
+        "media": "Live TV, podcasts, newsletters, and transcripts of live broadcasts."
+    },
+    {
+        "client": "foxnews",
+        "about_us": "Fox News provides breaking news updates and in-depth analysis on U.S. and world events, with a focus on politics, entertainment, sports, and lifestyle.",
+        "services_offered": "Fox News offers news content on various platforms, including live TV, streaming, and podcasts. Their services cover U.S. and world news, political analysis, financial news, and lifestyle content.",
+        "media": "Fox News Channel, Fox Business, Fox Nation (streaming service), Fox News Audio, and Outkick for sports."
+    },
+    {
+        "client": "latimes",
+        "about_us": "The Los Angeles Times is a leading source for news, analysis, and opinions about California and national events.",
+        "services_offered": "LA Times provides news on California, national and global events, business, sports, and entertainment. It also offers opinion pieces and investigative journalism.",
+        "media": "Digital newspaper, LA Times app, newsletters, and podcasts."
+    },
+    {
+        "client": "usatoday",
+        "about_us": "USA TODAY delivers breaking news and the latest headlines in U.S. and world news, covering topics like sports, entertainment, finance, and lifestyle.",
+        "services_offered": "USA TODAY provides news articles, newsletters, videos, podcasts, and a variety of digital content. They also offer specialized information through USA TODAY's 10Best, Blueprint, and Southern Kitchen.",
+        "media": "Digital and print editions, USA TODAY mobile app, and newsletters."
+    },
+
+    {
+    "client": "BBC News",
+    "about_us": "Leading global news platform covering topics like world events, politics, culture, science, and health.",
+    "services_offered": "Live news coverage, personalized regional news, multimedia content (videos, images), and BBC Verify for fact-checking.",
+    "media": "Offers comprehensive multimedia experiences through iPlayer, Sounds, and BBC World Service, along with live news on major events."
+    },
+    {
+    "client": "Instagram",
+    "about_us": "Social media platform for sharing photos, videos, and short-form content.",
+    "services_offered": "Features include Stories, Reels, Direct Messaging, and content discovery for users to engage with visual media.",
+    "media": "Primarily focuses on user-generated images and video, supporting social interaction through likes, comments, and sharing."
+    },
+    {
+    "client": "Twitter (X)",
+    "about_us": "Real-time social platform for brief updates, opinions, and trending topics.",
+    "services_offered": "Microblogging with character-limited posts, hashtags for trend tracking, and high engagement tools.",
+    "media": "Supports text, images, videos, and links, often used for immediate news dissemination and public discourse."
+    },
+    {
+    "client": "Facebook",
+    "about_us": "Broad social networking platform for connecting with friends, family, and businesses.",
+    "services_offered": "Profile and page creation, Marketplace, Messenger, various Meta products (e.g., Meta Quest, Meta AI).",
+    "media": "Comprehensive social and multimedia experience with photos, videos, text posts, and interactive features for networking."
+    },
+    {
+    "client": "Quora",
+    "about_us": "Q&A platform for knowledge sharing and community-driven insights.",
+    "services_offered": "Users can ask questions, provide answers, and engage in discussions to better understand a wide range of topics.",
+    "media": "Primarily text-based responses with the option for multimedia enhancements in answers to illustrate points."
+    },
+    {
+    "client": "Stack Overflow",
+    "about_us": "Developer-centric Q&A platform for technical knowledge sharing, particularly in programming.",
+    "services_offered": "OverflowAI, Stack Overflow for Teams, API solutions for collaborative knowledge sharing and training.",
+    "media": "Text-based answers, code snippets, and interactive discussions among technology professionals and learners."
+    },
+    {
+    "client": "Reddit",
+    "about_us": "Online community platform where users engage in discussions across various topics in themed forums called subreddits.",
+    "services_offered": "Allows user-generated content sharing, community discussions, and advertising opportunities.",
+    "media": "Supports multimedia content such as text, images, videos, and GIFs within community posts and comments."
+},
+{
+    "client": "Mashable",
+    "about_us": "A digital media website covering tech, entertainment, culture, and social good.",
+    "services_offered": "Offers news articles, reviews, guides, and video content across multiple categories including tech, entertainment, and lifestyle.",
+    "media": "Publishes multimedia content, including articles, videos, and podcasts focusing on trending tech and entertainment topics."
+},
+{
+    "client": "BuzzFeed",
+    "about_us": "Internet media company known for viral content, quizzes, and pop culture news.",
+    "services_offered": "Provides quizzes, entertainment articles, shopping guides, and news segments.",
+    "media": "Focuses on visual and interactive content, including videos, memes, and quizzes that engage audiences."
+},
+{
+    "client": "Kickstarter",
+    "about_us": "Crowdfunding platform where creators raise funds for projects from backers.",
+    "services_offered": "Enables project creators to set up funding campaigns, offering tiers of rewards to supporters.",
+    "media": "Showcases project videos, updates, and media assets to attract backers and support creative projects."
+},
+{
+    "client": "TED",
+    "about_us": "A nonprofit devoted to spreading ideas, usually in the form of short, powerful talks.",
+    "services_offered": "Provides TED Talks, TEDx events, TED-Ed lessons, and various content on topics such as science, technology, and education.",
+    "media": "Video and audio content featuring TED Talks, podcasts, and educational videos through TED-Ed."
+},
+{
+    "client": "Netflix",
+    "about_us": "Streaming service offering a wide variety of TV shows, movies, and documentaries.",
+    "services_offered": "Subscription-based streaming service providing access to original and licensed content.",
+    "media": "Primarily video-based content with extensive collections of movies, TV series, and exclusive originals."
+},
+{
+    "client": "Coursera",
+    "about_us": "Online learning platform offering courses, specializations, and degrees from universities and companies worldwide.",
+    "services_offered": "Provides access to online courses, certifications, and degree programs across various fields.",
+    "media": "Educational video lectures, reading materials, assignments, and assessments."
+},
+{
+    "client": "Yahoo",
+    "about_us": "Online services provider offering a range of features including news, finance, sports, and email.",
+    "services_offered": "Provides news articles, email, finance tools, and entertainment content.",
+    "media": "Multimedia content including articles, images, videos, and live financial data."
+},
+{
+    "client": "VICE",
+    "about_us": "Media company known for news, culture, and investigative journalism with a focus on youth-oriented topics.",
+    "services_offered": "Provides news articles, documentaries, and series focusing on culture, crime, and politics.",
+    "media": "Video documentaries, written articles, and multimedia content across various youth-centric topics."
+},
+{
+    "client": "WIRED",
+    "about_us": "Technology magazine covering how tech is transforming culture, business, science, and design.",
+    "services_offered": "Offers articles, buying guides, and reviews covering technology, science, and culture.",
+    "media": "Multimedia articles, podcasts, and video content on emerging tech trends and cultural analysis."
+},
+
+    {
+    "client": "Slate",
+    "about_us": "Online magazine offering commentary, news, and analysis across topics including politics, culture, and technology. Published by The Slate Group, a Graham Holdings Company.",
+    "services_offered": "Articles on news, politics, culture, technology, business, life, advice, and podcasts.",
+    "media": "Publishes written articles, podcasts, and multimedia content covering current events and culture."
+},
+{
+    "client": "NASA",
+    "about_us": "The National Aeronautics and Space Administration (NASA) conducts space and aeronautics research, exploring the unknown to benefit humanity.",
+    "services_offered": "News and updates on space missions, virtual guest programs, multimedia resources, live events, and educational resources.",
+    "media": "Offers video content, images, interactive multimedia, and live streams of space events."
+},
+{
+    "client": "UNICEF",
+    "about_us": "United Nations International Children's Emergency Fund (UNICEF) works to save children’s lives, defend their rights, and help them fulfill their potential.",
+    "services_offered": "Programs in health, education, emergency relief, and advocacy for children's rights.",
+    "media": "Uses multimedia content to raise awareness and share updates on global child welfare."
+},
+{
+    "client": "Spotify",
+    "about_us": "Music streaming platform that offers millions of songs, podcasts, and playlists on demand.",
+    "services_offered": "Provides streaming services for music and podcasts with both free and premium subscription options.",
+    "media": "Focuses on audio content including music tracks, podcasts, and curated playlists."
+},
+{
+    "client": "Adobe",
+    "about_us": "Software company known for creative and multimedia software products, including Photoshop, Illustrator, and Acrobat.",
+    "services_offered": "Offers creative software suites, digital marketing tools, and document solutions for both individuals and enterprises.",
+    "media": "Supports digital media creation, editing, and distribution through a wide range of software tools."
+},
+{
+    "client": "Apple",
+    "about_us": "Technology company known for its consumer electronics, software, and services. Products include iPhone, Mac, iPad, and Apple Watch.",
+    "services_offered": "Offers products such as Mac, iPad, iPhone, Apple Watch, AirPods, Apple TV, and services like Apple Music, Apple Pay, and iCloud.",
+    "media": "Primarily offers video, audio, and interactive media through its devices and content platforms."
+},
+{
+    "client": "Microsoft",
+    "about_us": "Technology company providing software, hardware, and cloud computing solutions, including Windows, Microsoft Office, and Azure.",
+    "services_offered": "Products include Microsoft 365, Teams, Windows, Surface devices, and Azure cloud services.",
+    "media": "Produces and distributes multimedia resources, software tutorials, and cloud services."
+},
+{
+    "client": "Mozilla",
+    "about_us": "Non-profit organization behind Firefox, dedicated to keeping the internet open and accessible to all.",
+    "services_offered": "Products include Firefox browsers, Mozilla VPN, and privacy tools like Mozilla Monitor and Facebook Container.",
+    "media": "Publishes browser updates, web resources for developers, and content promoting internet privacy."
+},
+
+    {
+    "client": "Opera",
+    "about_us": "Opera is a web browser known for its innovative features, such as built-in ad blocking, video pop-out, workspaces, and integrated social media tools.",
+    "services_offered": "Web browsing services with unique features like ad blocking, video pop-out, workspaces, and built-in social media messengers.",
+    "media": "Provides online content through its Opera News and blogging platforms."
+},
+{
+    "client": "Dropbox",
+    "about_us": "Dropbox is a cloud storage service that enables users to store, share, and access files across multiple devices.",
+    "services_offered": "File storage, sharing, secure document transfer, video review, and e-signature services.",
+    "media": "Supports secure file and media sharing, document signing, and video reviews."
+},
+{
+    "client": "Canva",
+    "about_us": "Canva is an online design platform that offers tools for creating a variety of graphics, including social media posts, presentations, posters, and more.",
+    "services_offered": "Design tools and templates for creating visual content such as social media graphics, presentations, and marketing materials.",
+    "media": "Provides multimedia design and sharing capabilities across various formats."
+},
+{
+    "client": "SoundCloud",
+    "about_us": "SoundCloud is an audio distribution platform and music sharing website that allows users to upload, promote, and share music.",
+    "services_offered": "Music streaming and social sharing for independent and professional artists.",
+    "media": "Hosts music tracks, playlists, and user-uploaded audio content."
+},
+{
+    "client": "Etsy",
+    "about_us": "Etsy is an e-commerce platform focused on handmade, vintage, and unique goods.",
+    "services_offered": "Online marketplace for handmade, vintage items, and craft supplies.",
+    "media": "Features product listings, user reviews, and seller shops for e-commerce transactions."
+},
+{
+    "client": "BBC",
+    "about_us": "The British Broadcasting Corporation (BBC) is a public service broadcaster providing news, sports, entertainment, and educational content globally.",
+    "services_offered": "News, sports, cultural programming, and educational content, including live broadcasts.",
+    "media": "Produces and broadcasts TV, radio, and online content across a wide range of topics."
+},
+{
+    "client": "Amazon",
+    "about_us": "Amazon is a global e-commerce and technology company, providing retail, digital streaming, cloud computing, and artificial intelligence services.",
+    "services_offered": "E-commerce, cloud services through AWS, and digital media streaming.",
+    "media": "Distributes digital and physical media, including e-books, movies, and cloud-based services."
+},
+{
+    "client": "CNN",
+    "about_us": "Cable News Network (CNN) is a news-based television channel providing breaking news, live broadcasts, and in-depth coverage of global events.",
+    "services_offered": "Live news broadcasting, multimedia journalism, and editorial content across various topics.",
+    "media": "Produces video content, live news, and multimedia reports for global audiences."
+},
+
+    {
+    "client": "New York Times",
+    "about_us": "The New York Times is a leading American newspaper that provides comprehensive news coverage on a global scale, focusing on national and international news, culture, business, and technology.",
+    "services_offered": "News reporting, investigative journalism, editorial pieces, and multimedia content.",
+    "media": "Print and digital news content, including multimedia features."
+},
+{
+    "client": "Wikipedia",
+    "about_us": "Wikipedia is a free, web-based, collaborative multilingual encyclopedia project supported by the non-profit Wikimedia Foundation.",
+    "services_offered": "Open access encyclopedia articles, available in multiple languages and hosted under various Wikimedia Foundation projects like Wiktionary, Wikibooks, and Wikiquote.",
+    "media": "Text-based articles, images, and interactive content licensed under Creative Commons."
+},
+{
+    "client": "Forbes",
+    "about_us": "Forbes is an American business magazine known for its articles on finance, industry, investing, and marketing. It also publishes lists such as Forbes 400 and the World’s Billionaires.",
+    "services_offered": "Business news, financial insights, and rankings of companies and individuals.",
+    "media": "Print and online articles, podcasts, and multimedia content."
+},
+{
+    "client": "IMDb",
+    "about_us": "IMDb, or the Internet Movie Database, is an online database of information related to films, television programs, home videos, and streaming content.",
+    "services_offered": "Comprehensive film and TV information, including cast, crew, plot summaries, and user reviews.",
+    "media": "Film trailers, still images, and promotional multimedia."
+},
+{
+    "client": "Medium",
+    "about_us": "Medium is an open platform where readers find dynamic thinking, and where expert and undiscovered voices can share new perspectives and ideas.",
+    "services_offered": "Publishing platform for articles, blogs, and reader-supported journalism.",
+    "media": "User-generated content including articles, essays, and blogs."
+},
+{
+    "client": "The Guardian",
+    "about_us": "The Guardian is a British news organization known for its in-depth reporting, investigative journalism, and commitment to liberal editorial perspectives.",
+    "services_offered": "News reporting, editorial commentary, opinion pieces, and multimedia content.",
+    "media": "Print, online articles, podcasts, and videos."
+},
+{
+    "client": "ESPN",
+    "about_us": "ESPN is a leading sports television network that provides sports news, event coverage, and related content worldwide.",
+    "services_offered": "Live sports broadcasting, sports news, analysis, and entertainment.",
+    "media": "Television broadcasts, online articles, podcasts, and live streaming."
+},
+{
+    "client": "Reuters",
+    "about_us": "Reuters is an international news organization known for delivering fast, accurate, and unbiased news coverage across a wide range of topics.",
+    "services_offered": "News reporting, financial data, and multimedia content for global audiences.",
+    "media": "News articles, video content, and real-time news feeds."
+},
+{
+    "client": "Bloomberg",
+    "about_us": "Bloomberg is a global financial services and media company, providing news, data, and insights on business, markets, and finance.",
+    "services_offered": "Financial data, news reporting, analysis, and business insights.",
+    "media": "News articles, live financial data, video content, and financial tools."
+},
+
+    {
+    "client": "npr",
+    "about_us": "NPR - Breaking News, Analysis, Music, Arts & Podcasts. NPR is a nonprofit organization that provides independent journalism, covering U.S. and world news, politics, health, science, business, music, arts, and culture. NPR's mission is to create a more informed public, with a deep understanding of current events and complex issues through noncommercial news and media programming.",
+    "services_offered": "NPR offers a variety of services, including breaking news, in-depth analysis, and feature stories across multiple domains such as politics, health, science, climate, race, and culture. They also produce a wide range of podcasts and shows, including popular programs like Morning Edition, All Things Considered, and the NPR Politics Podcast. Additionally, NPR hosts music features like Tiny Desk Concerts, live music sessions, and curated playlists.",
+    "media": "NPR operates through various media formats, including radio broadcasts, podcasts, articles, and video content. The organization is widely recognized for its radio and podcast content, including shows that feature national and international news, cultural storytelling, and music performances."
+},
+{
+    "client": "linkedin",
+    "about_us": "LinkedIn is a professional networking platform where users can connect, share, and learn. It enables individuals to create professional profiles, build connections with colleagues, find job opportunities, and engage in industry discussions. LinkedIn supports multiple languages and is used globally by professionals and companies alike to manage careers, seek talent, and network within various industries.",
+    "services_offered": "LinkedIn provides services such as job search, recruitment tools, professional networking, and online learning through LinkedIn Learning. LinkedIn also offers advertising services for businesses, data insights for recruiters, and a platform for companies to showcase their brands. Its features include a news feed with industry updates, connection recommendations, and company pages.",
+    "media": "LinkedIn includes multimedia options in user profiles and posts, allowing professionals to share articles, videos, photos, and presentations. The platform also hosts a news section with insights on industry trends and provides tools for content sharing and networking."
+},
+{
+    "client": "github",
+    "about_us": "GitHub is a development platform inspired by the way developers work. It is a cloud-based hosting service that manages and stores code, enabling developers to work on projects collaboratively. GitHub supports both open-source and private repositories, and it's widely used for code review, project management, and continuous integration for various development projects.",
+    "services_offered": "GitHub offers a range of features, including GitHub Copilot (an AI code assistant), GitHub Actions (workflow automation), Codespaces (instant development environments), Issues (project management), and Security (vulnerability detection). It also provides a marketplace for tools, as well as resources for learning, documentation, and community engagement. Enterprise-grade solutions include advanced security, 24/7 support, and custom deployment options.",
+    "media": "GitHub primarily supports text and code repositories, along with visual documentation, issue tracking, and discussion boards. It also provides video tutorials, community articles through The ReadME Project, and a knowledge-sharing blog."
+},
+
+    {
+        "client": "huffpost",
+        "about_us": "HuffPost is a news platform covering a broad range of topics including politics, entertainment, lifestyle, and voices from various perspectives. Known for its progressive viewpoints, HuffPost delivers news and personal stories through articles, newsletters, and multimedia content.",
+        "services_offered": "HuffPost provides news coverage, personal stories, commentary, and cultural analysis. It also offers newsletters, podcasts, and editorial sections focusing on various topics.",
+        "media": "HuffPost primarily uses articles, video content, and podcasts to engage its audience on topics including breaking news, opinion pieces, and cultural stories."
+    },
+    {
+        "client": "techcrunch",
+        "about_us": "TechCrunch is a leading technology media platform, reporting on the latest trends in startups, venture capital, and technology. It offers insights into new technologies, industry changes, and emerging companies.",
+        "services_offered": "TechCrunch provides news on startups, venture capital, AI, apps, and significant industry shifts. It hosts events like Disrupt and provides a job board for the tech industry.",
+        "media": "TechCrunch publishes news articles, video interviews, and event coverage, primarily focused on the technology sector and startup ecosystem."
+    },
+    {
+        "client": "cnbc",
+        "about_us": "CNBC is a global leader in business news, providing real-time financial market coverage, business insights, and analysis. As a part of NBCUniversal, CNBC reaches a wide audience with its financial and market news across digital and television platforms.",
+        "services_offered": "CNBC offers business news, market data, financial analysis, and investing insights. It also has subscription services like CNBC PRO for premium analysis and Investing Club for portfolio guidance.",
+        "media": "CNBC uses television broadcasts, digital articles, live market data feeds, and subscription content to deliver news. It also offers newsletters and a streaming service on Peacock."
+    },
+    {
+        "client": "msnbc",
+        "about_us": "MSNBC is a news channel providing comprehensive news coverage with a focus on politics, current events, and in-depth analysis. Known for its progressive perspectives, MSNBC features a variety of programs hosted by well-known journalists and analysts.",
+        "services_offered": "MSNBC provides live TV broadcasts, political analysis, and news coverage. It has podcasts, streaming services, and live events on platforms like Peacock.",
+        "media": "MSNBC delivers content through live TV shows, podcasts, newsletters, and articles. Popular shows include 'The Rachel Maddow Show,' 'Morning Joe,' and 'Deadline: White House.'"
+    },
+    {
+        "client": "foxnews",
+        "about_us": "Fox News is a multimedia news organization delivering breaking news, analysis, and commentary across various domains, including politics, world events, and lifestyle topics. It is known for its conservative viewpoints and provides 24/7 news coverage.",
+        "services_offered": "Fox News offers live news broadcasts, opinion pieces, podcasts, and exclusive programming on Fox Nation. It also provides services like Fox Weather, Fox Business, and Outkick for specialized content.",
+        "media": "Fox News delivers content through live TV, online articles, podcasts, video clips, and games. It also offers streaming options on platforms like Fox Nation and Fox Weather."
+    },
+
+    {
+        "client": "latimes",
+        "about_us": "The Los Angeles Times is a leading source of breaking news, entertainment, sports, politics, and more for Southern California and the world.",
+        "services_offered": "News, Editorials, Classifieds, Obituaries, Entertainment, Lifestyle, and Advertising",
+        "media": "Text, Photos, Videos"
+    },
+    {
+        "client": "usatoday",
+        "about_us": "USA TODAY is an internationally distributed American daily middle-market newspaper and news broadcasting company. It is the flagship publication of its owner, Gannett.",
+        "services_offered": "News, Editorials, Subscription Services, Multimedia Content, Podcasts, Magazines, Investigations, eNewspaper, and Advertising",
+        "media": "Text, Photos, Videos, Podcasts"
+    },
+    {
+        "client": "bbc_news",
+        "about_us": "BBC News is the news and current affairs division of the British Broadcasting Corporation (BBC) in the United Kingdom. The service maintains a network of correspondents in over 200 countries.",
+        "services_offered": "News, World News TV, Documentaries, Video Reporting, and Investigative Journalism",
+        "media": "Text, Photos, Videos, Audio Broadcasts, Podcasts"
+    },
+    {
+        "client": "instagram",
+        "about_us": "Instagram is a photo and video-sharing social networking service owned by Meta Platforms. It allows users to share visual content with their followers and discover content from others.",
+        "services_offered": "Photo Sharing, Video Sharing, Stories, Reels, Shopping, Direct Messaging, Advertising",
+        "media": "Photos, Videos, Stories, Reels"
+    },
+    {
+        "client": "x",
+        "about_us": "X, formerly known as Twitter, is a microblogging and social networking service. Rebranded in 2023, X aims to be an 'everything app' with services extending beyond social networking.",
+        "services_offered": "Microblogging, Text and Multimedia Posting, Retweeting, Direct Messaging, Real-time Information, Payments (future expansion), Advertising",
+        "media": "Text, Photos, Videos, Audio Broadcasts, Live Streaming"
+    },
+
+    {
+        "client": "facebook",
+        "about_us": "Facebook is a social media platform that connects people, allowing users to share and connect with friends, family, and communities. Owned by Meta Platforms, it offers various features and integrations.",
+        "services_offered": "Social networking, Messenger, Facebook Lite, Marketplace, Meta Pay, Meta Quest, Ray-Ban Meta, Instagram, Threads, and Meta AI integrations",
+        "media": "Text, Photos, Videos, Stories, Livestreaming, Messaging"
+    },
+    {
+        "client": "quora",
+        "about_us": "Quora is a platform for asking and answering questions, aimed at sharing knowledge and insights to help people understand the world.",
+        "services_offered": "Q&A forums, knowledge sharing, user-generated content",
+        "media": "Text-based Q&A, User Insights, Knowledge Sharing"
+    },
+    {
+        "client": "stackoverflow",
+        "about_us": "Stack Overflow is a Q&A platform for developers and technologists, providing a space to share, learn, and build careers through collective knowledge.",
+        "services_offered": "Q&A for technical issues, Stack Overflow for Teams, GenAI tools, Advertising, Talent solutions, API services",
+        "media": "Text-based Q&A, Team Collaboration Tools, GenAI Integrations"
+    },
+
+    {
+        "client": "harvard",
+        "about_us": "Harvard University, founded in 1636, is a private Ivy League research university based in Cambridge, Massachusetts, known for its rigorous academics, prestigious reputation, and global impact through research and education. It encompasses various schools, including Harvard College, Harvard Business School, Harvard Law School, and Harvard Medical School.",
+        "services_offered": "Undergraduate and graduate programs, professional degrees, executive education, research facilities, libraries, and museums. Key initiatives focus on sustainability, public health, innovation, and global affairs.",
+        "media": "Text-based educational content, research publications, online courses, digital media resources, video lectures"
+    },
+    {
+        "client": "ucsd",
+        "about_us": "The University of California, San Diego (UCSD), founded in 1960, is a public research university located in La Jolla, California. Renowned for its focus on science, engineering, and medicine, UCSD is also recognized for its commitment to social sciences and the arts, with extensive contributions to climate science, biotechnology, and innovation.",
+        "services_offered": "Undergraduate and graduate degree programs, research opportunities, public health and medical training, arts and humanities, professional development, continuing education, and extension programs. Research centers include Scripps Institution of Oceanography, Jacobs School of Engineering, and UCSD Health.",
+        "media": "Research publications, multimedia educational content, public events, online courses, video lectures, student media"
+    },
+    {
+        "client": "oxford",
+        "about_us": "The University of Oxford, founded in 1096, is a collegiate research university in Oxford, England. Known for its historic and rigorous academic tradition, Oxford offers diverse programs across sciences, humanities, law, medicine, and social sciences. It is a global leader in research and innovation with a commitment to teaching excellence.",
+        "services_offered": "Undergraduate and postgraduate degrees, continuing education, executive education, extensive research programs, and access to Oxford's libraries and museums. Key areas include the humanities, sciences, medical research, business through the Saïd Business School, and interdisciplinary studies.",
+        "media": "Academic publications, online courses, educational videos, digital resources via the Bodleian Libraries, and cultural content from Oxford's museums and galleries."
+    },
+    {
+        "client": "yale",
+        "about_us": "Yale University, established in 1701 and located in New Haven, Connecticut, is an Ivy League research university. It emphasizes liberal arts education, pioneering research, and societal impact, offering programs across fields such as arts, sciences, law, medicine, and business.",
+        "services_offered": "Undergraduate, graduate, and professional degree programs, research initiatives, continuing education, arts and cultural institutions, health services, and extensive library resources. Yale is renowned for its research centers and initiatives in global health, environmental studies, and public policy.",
+        "media": "Scholarly articles, educational media, online courses, multimedia resources through the Yale University Art Gallery, and virtual tours and exhibitions."
+    },
+
+
+    {
+        "client": "princeton",
+        "about_us": "The page features notable achievements and figures associated with Princeton, such as Nobel laureates and alumni receiving awards. It also highlights academic and research excellence, with projects like mapping a fruit fly brain to advance neurological studies.",
+        "services_offered": "Emphasizes the academic offerings, research initiatives, and student life at Princeton, covering aspects from undergraduate to postgraduate studies, various academic and social facilities, and the institution’s commitment to societal contributions.",
+        "media": "Includes notable events and news like awarding Nobel prizes, discussions on democracy, advancements in quantum sciences, and significant faculty contributions across diverse fields."
+    },
+    {
+        "client": "berkeley",
+        "about_us": "UC Berkeley is recognized for its strong emphasis on research and academic excellence, particularly in the fields of computer science, engineering, and social sciences. The university is dedicated to fostering innovation, diversity, and social impact through interdisciplinary collaboration.",
+        "services_offered": "Offers a wide range of undergraduate and graduate programs, with notable strengths in computer science, data science, and engineering. UC Berkeley also provides extensive research opportunities, community engagement programs, and resources for professional and academic development.",
+        "media": "Recent highlights include achievements in AI research, quantum computing advancements, and notable contributions by faculty in environmental sustainability and public policy. UC Berkeley frequently hosts discussions, panels, and events on cutting-edge research and societal challenges."
+    },
+    {
+        "client": "timesofindia",
+        "about_us": "Identifies as a source for the latest news, covering a broad spectrum from politics and sports to entertainment and business, both on a national and global scale.",
+        "services_offered": "Provides comprehensive news updates, including exclusive stories, various city-specific updates, and a wide range of topics including technology, education, and lifestyle.",
+        "media": "Discusses current topics such as political commentary, health guidelines, entertainment news, and interactive content like quizzes and games."
+    },
+
+    {
+        "client": "indiatoday",
+        "about_us": "India Today is a prominent Indian news media outlet providing national and international news, covering a wide array of topics, including politics, entertainment, business, sports, and lifestyle.",
+        "services_offered": "Delivers multimedia news services across TV, digital, and print media, offering live TV broadcasts, news magazines, special reports, and interactive content. It also operates numerous sister channels and websites for regional and specialized news.",
+        "media": "Covers trending news events, political developments, celebrity news, and societal issues, along with interactive media, games, and exclusive features on fashion and entertainment."
+    },
+    {
+        "client": "hindustantimes",
+        "about_us": "Founded in 1924, Hindustan Times is a leading English-language newspaper in India. It is the flagship publication of HT Media Ltd., a major media conglomerate with a range of print, digital, and radio services.",
+        "services_offered": "Offers news coverage, advertising solutions across print, digital, and radio platforms, and news syndication services. Also includes a digital news portal and regional editions across major Indian cities.",
+        "media": "Provides in-depth news coverage on national and international events, opinion pieces, and cultural features. Known for its coverage of North India, it frequently includes updates on major political events, sports, business, and lifestyle content."
+    },
+    {
+            "client": "indianexpress",
+            "about_us": "The Indian Express is an Indian English-language newspaper founded in 1932. Known for its journalism of courage, it provides the latest news on India and world affairs, along with in-depth analysis and opinions. The paper covers a variety of topics including politics, business, sports, entertainment, lifestyle, technology, and more.",
+            "services_offered": "The Indian Express offers extensive coverage of current affairs, business insights, sports updates, entertainment news, lifestyle tips, and technology advancements. They also provide specialized content for UPSC preparation, international news, podcasts, and subscription-based premium content for in-depth journalism.",
+            "media": "The Indian Express publishes both print and digital editions, offering news articles, e-paper access, podcasts, video content, and interactive sections for readers. They also produce special editions, newsletters, and multimedia content on current events."
+        },
+        {
+            "client": "financialexpress",
+            "about_us": "The Financial Express is an Indian English-language business newspaper owned by The Indian Express Group. Established in 1961, it specializes in Indian and international business and financial news. The newspaper publishes 11 editions from various Indian cities and is currently edited by Shyamal Majumdar.",
+            "services_offered": "The Financial Express provides comprehensive coverage of the Indian stock market, including live updates on indices like Sensex and Nifty, stock prices, top gainers and losers, volume shockers, and expert analyses. The publication also offers in-depth stock recommendations and analyses, featuring insights on stocks in focus, budget impacts, and expert opinions on the Indian stock market.",
+            "media": "The Financial Express publishes online content including live market updates, stock analyses, business news articles, and expert opinions related to the Indian financial sector. For more detailed information and the latest updates, visit their official website."
+        },
+        {
+        "client": "telegraph",
+        "about_us": "The Telegraph is a major UK newspaper offering in-depth news, politics, business, and cultural content, founded in 1855.",
+        "services_offered": "Digital subscriptions for unlimited news access, special reports, and exclusive articles.",
+        "media": "Sections covering UK and global news, politics, business, sports, lifestyle, and culture."
+    },
+    {
+        "client": "dailymail",
+        "about_us": "Daily Mail is a British newspaper known for its extensive news coverage, celebrity stories, and human-interest content, established in 1896.",
+        "services_offered": "Daily digital content, personalized news updates, and premium ad-free subscription options.",
+        "media": "Covers news, entertainment, lifestyle, health, travel, and sports with a strong focus on multimedia and visuals."
+    },
+    {
+        "client": "mirror",
+        "about_us": "Daily Mirror is a UK national daily tabloid focusing on celebrity news, politics, sports, and entertainment, established in 1903.",
+        "services_offered": "Free and premium digital access, interactive news updates, and exclusive reports.",
+        "media": "Features extensive coverage in news, entertainment, sports, and opinion sections, with multimedia and live updates."
+    },
+    {
+        "client": "thetimes",
+        "about_us": "The Times is a respected British daily newspaper providing comprehensive news, analysis, and commentary, founded in 1785.",
+        "services_offered": "Digital and print subscriptions with premium content, investigative journalism, and special reports.",
+        "media": "Focuses on UK and international news, politics, business, arts, and opinion with in-depth analysis and insights."
+    },
+    {
+        "client": "theatlantic",
+        "about_us": "The Atlantic is an American magazine providing commentary on news, politics, culture, and technology, founded in 1857.",
+        "services_offered": "Monthly and annual digital subscriptions for premium content, including long-form articles and essays.",
+        "media": "Features sections on news, culture, politics, technology, health, and ideas, with extensive long-form journalism."
+    },
+    {
+        "client": "newyorker",
+        "about_us": "The New Yorker is a renowned American magazine known for its journalism, commentary, fiction, and cultural criticism, founded in 1925.",
+        "services_offered": "Digital and print subscriptions with access to fiction, essays, poetry, and exclusive editorials.",
+        "media": "Covers current events, cultural criticism, humor, cartoons, and fiction with a literary and satirical approach."
+    },
+    {
+        "client": "usatoday",
+        "about_us": "USA Today is a widely read American newspaper known for concise reporting and colorful visuals, founded in 1982.",
+        "services_offered": "Digital and print subscriptions, real-time news updates, and personalized news feeds.",
+        "media": "Includes sections on news, sports, life, money, tech, and travel with visual content and infographics."
+    },
+    {
+        "client": "cbc",
+        "about_us": "CBC (Canadian Broadcasting Corporation) is Canada’s national public broadcaster, providing news, entertainment, and information programming across Canada.",
+        "services_offered": "Live and on-demand news broadcasts, radio shows, podcasts, documentaries, and digital news subscriptions.",
+        "media": "Sections cover national and international news, sports, entertainment, arts, lifestyle, and politics, along with multimedia content."
+    },
+    {
+        "client": "cbsnews",
+        "about_us": "CBS News is a leading U.S. news network providing comprehensive news coverage and analysis on current events, politics, and more.",
+        "services_offered": "Live streaming news, on-demand video content, newsletters, and digital news subscriptions.",
+        "media": "Focuses on breaking news, politics, health, science, entertainment, and technology with a strong emphasis on video content."
+    },
+    {
+        "client": "abcnews",
+        "about_us": "ABC News is an American news division that provides news coverage on a range of topics from politics to entertainment and world news.",
+        "services_offered": "Live TV news, digital subscriptions, mobile news alerts, and on-demand video content.",
+        "media": "Covers U.S. and global news, health, politics, entertainment, and sports with multimedia and real-time updates."
+    },
+    {
+        "client": "bbcnews",
+        "about_us": "BBC News is a British broadcasting service known for delivering international news, analysis, and features on a wide range of topics.",
+        "services_offered": "Live global news broadcasts, digital and mobile news alerts, podcasts, and online news articles.",
+        "media": "Features sections on world news, business, politics, technology, health, and lifestyle with comprehensive multimedia content."
+    },
+    {
+        "client": "forbes",
+        "about_us": "Forbes is a global media company known for its business news, investment insights, and reports on entrepreneurship and innovation.",
+        "services_offered": "Digital and print subscriptions, newsletters, exclusive business content, and industry insights.",
+        "media": "Focuses on business, investing, technology, entrepreneurship, leadership, and lifestyle content with multimedia elements."
+    },
+    {
+        "client": "bloomberg",
+        "about_us": "Bloomberg is a global leader in business and financial news, providing data-driven insights and analysis.",
+        "services_offered": "News subscriptions, financial analysis tools, market data, and premium content on finance and economics.",
+        "media": "Covers business, finance, technology, markets, politics, and opinion with a heavy emphasis on data and multimedia."
+    },
+    {
+        "client": "inc",
+        "about_us": "Inc. is a media brand dedicated to supporting entrepreneurs, startups, and small business owners with news and advice.",
+        "services_offered": "Digital subscriptions, newsletters, and business insights focused on entrepreneurship and startup growth.",
+        "media": "Focuses on entrepreneurship, business advice, leadership, innovation, and startup culture with articles and case studies."
+    },
+    {
+        "client": "businessinsider",
+        "about_us": "Business Insider is a U.S.-based news website that provides financial, tech, and business news and analysis.",
+        "services_offered": "Subscription services for premium content, newsletters, and insider reports on various industries.",
+        "media": "Covers finance, tech, politics, markets, strategy, and lifestyle with a strong emphasis on multimedia and exclusive content."
+    },
+    {
+        "client": "economist",
+        "about_us": "The Economist is a British publication offering authoritative insights and analysis on international news, politics, and economics.",
+        "services_offered": "Digital and print subscriptions, weekly issues, podcasts, and in-depth special reports.",
+        "media": "Sections include world news, business, finance, science, technology, and culture with a focus on global perspectives."
+    },
+    {
+        "client": "hbr",
+        "about_us": "Harvard Business Review (HBR) is a leading management magazine offering expert insights on business and leadership.",
+        "services_offered": "Subscription services for premium content, podcasts, management tools, and business courses.",
+        "media": "Content focuses on business strategy, leadership, innovation, and management research, along with case studies and podcasts."
+    },
+    {
+        "client": "nbcsports",
+        "about_us": "NBC Sports is an American sports network offering news, live event coverage, and commentary on major sports.",
+        "services_offered": "Live streaming of sports events, on-demand video content, and subscription services for exclusive access.",
+        "media": "Covers a variety of sports, including NFL, NBA, MLB, and NHL, with news, live coverage, and video highlights."
+    },
+    {
+        "client": "sportsillustrated",
+        "about_us": "Sports Illustrated is a U.S.-based sports magazine known for its in-depth coverage and analysis of major sports and athletes.",
+        "services_offered": "Digital subscriptions, exclusive sports articles, event coverage, and themed magazines.",
+        "media": "Focuses on sports news, athlete profiles, sports analysis, and special features, with both print and digital content."
+    },
+    {
+        "client": "bleacherreport",
+        "about_us": "Bleacher Report is a sports media platform known for its in-depth and fan-focused coverage of sports and teams.",
+        "services_offered": "Mobile app, live sports updates, newsletters, and exclusive team and athlete insights.",
+        "media": "Covers various sports leagues, including NFL, NBA, and MLB, with news, video highlights, and interactive fan content."
+    },
+    {
+        "client": "fivethirtyeight",
+        "about_us": "FiveThirtyEight is a website providing data-driven analysis on politics, sports, economics, and science.",
+        "services_offered": "Newsletters, election forecasts, and in-depth statistical analysis across various topics.",
+        "media": "Focuses on politics, sports, economics, and science with data journalism, visualizations, and statistical insights."
+    },
+    {
+        "client": "nhl",
+        "about_us": "The NHL (National Hockey League) is a professional ice hockey league in North America, comprising teams from the United States and Canada.",
+        "services_offered": "Game schedules, live streaming of matches, news, team and player statistics, ticketing, and fan shop.",
+        "media": "Covers match highlights, team updates, player profiles, scores, and video content focused on the NHL season."
+    },
+    {
+        "client": "nba",
+        "about_us": "The NBA (National Basketball Association) is a professional basketball league in North America known for its high-profile games and athletes.",
+        "services_offered": "Game streaming, scores, schedules, ticket sales, team and player statistics, and an official online store.",
+        "media": "Focuses on game highlights, news, player interviews, scores, and multimedia content for the basketball fan community."
+    },
+    {
+        "client": "mlb",
+        "about_us": "Major League Baseball (MLB) is the professional baseball organization and the oldest of the major professional sports leagues in the United States and Canada.",
+        "services_offered": "Live streaming of games, ticketing, player and team stats, league news, and official MLB shop.",
+        "media": "Includes match highlights, game analysis, scores, player stats, and other multimedia content related to baseball."
+    },
+    {
+        "client": "nfl",
+        "about_us": "The NFL (National Football League) is the professional American football league in the United States, known for its popular Super Bowl championship.",
+        "services_offered": "Game streaming, schedules, team and player statistics, ticket sales, and fan merchandise.",
+        "media": "Covers game highlights, player interviews, scores, and extensive multimedia content around American football."
+    },
+    {
+        "client": "nasa",
+        "about_us": "NASA (National Aeronautics and Space Administration) is the United States government agency responsible for the nation's civilian space program and for aeronautics and aerospace research.",
+        "services_offered": "Space research updates, educational resources, live event streaming, and public outreach programs.",
+        "media": "Features articles, videos, and live streams on space missions, scientific discoveries, and aerospace technology."
+    },
+    {
+        "client": "who",
+        "about_us": "The World Health Organization (WHO) is a specialized agency of the United Nations responsible for international public health.",
+        "services_offered": "Global health data, guidelines, research publications, and health emergency response resources.",
+        "media": "Provides data, reports, and multimedia on global health issues, disease outbreaks, and health policies."
+    },
+    {
+        "client": "cdc",
+        "about_us": "The CDC (Centers for Disease Control and Prevention) is the national public health agency of the United States, focusing on health protection and disease prevention.",
+        "services_offered": "Health data and statistics, research publications, health guidelines, and public health emergency response.",
+        "media": "Features information on diseases, health conditions, prevention tips, and multimedia content on public health issues."
+    },
+    {
+        "client": "nyu",
+        "about_us": "New York University (NYU) is a private research university based in New York City, known for its global academic programs.",
+        "services_offered": "Undergraduate and graduate programs, online courses, research programs, and academic resources.",
+        "media": "Includes news, research publications, and event announcements for the NYU community and academic audience."
+    },
+    {
+        "client": "ucla",
+        "about_us": "The University of California, Los Angeles (UCLA) is a public research university in California, known for its diverse academic programs and research.",
+        "services_offered": "Undergraduate and graduate degrees, online programs, research initiatives, and student services.",
+        "media": "Provides university news, research updates, event coverage, and multimedia content for students and faculty."
+    },
+    {
+        "client": "duke",
+        "about_us": "Duke University is a private research university located in Durham, North Carolina, renowned for its research and academic programs.",
+        "services_offered": "Undergraduate, graduate, and professional degree programs, research opportunities, and online courses.",
+        "media": "Features news on campus events, research publications, and academic achievements, with multimedia resources for the community."
+    },
+    {
+        "client": "nike",
+        "about_us": "Nike is a global sportswear company, designing and manufacturing footwear, apparel, and equipment for various sports and fitness activities.",
+        "services_offered": "Athletic apparel and footwear sales, personalized sports gear, training apps, and athlete endorsements.",
+        "media": "Covers product launches, athlete stories, training tips, and promotional videos for sports enthusiasts."
+    },
+    {
+        "client": "adidas",
+        "about_us": "Adidas is an international sportswear brand known for designing and manufacturing footwear, apparel, and equipment for athletes worldwide.",
+        "services_offered": "Sales of sportswear, footwear, accessories, and custom athletic gear for different sports and activities.",
+        "media": "Features product news, athlete partnerships, fitness tips, and promotional multimedia content."
+    },
+    {
+        "client": "puma",
+        "about_us": "Puma is a German multinational company that designs and manufactures athletic and casual footwear, apparel, and accessories.",
+        "services_offered": "Sportswear and footwear sales, personalized gear options, and partnerships with sports teams and athletes.",
+        "media": "Highlights new product releases, athlete stories, and multimedia content around fitness and lifestyle trends."
+    },
+    {
+        "client": "underarmour",
+        "about_us": "Under Armour is an American sports equipment company that produces footwear, sports, and casual apparel.",
+        "services_offered": "Athletic apparel and footwear sales, training apps, and partnerships with professional athletes.",
+        "media": "Focuses on fitness content, athlete profiles, product features, and multimedia to promote an active lifestyle."
+    },
+    {
+        "client": "reebok",
+        "about_us": "Reebok is an athletic footwear and apparel brand known for its fitness-oriented products and collaborations with athletes.",
+        "services_offered": "Sports footwear, apparel sales, and training programs focused on fitness and lifestyle.",
+        "media": "Covers fitness news, product releases, athlete collaborations, and multimedia promoting health and fitness."
+    },
+    {
+        "client": "hsbc",
+        "about_us": "HSBC is a global bank providing personal, business, and corporate banking solutions to customers worldwide.",
+        "services_offered": "Banking services, loans, credit cards, wealth management, and business financial services.",
+        "media": "Provides news, financial insights, and resources for banking, investment, and wealth management."
+    },
+    {
+        "client": "jpmorgan",
+        "about_us": "JPMorgan Chase is an American multinational investment bank and financial services holding company.",
+        "services_offered": "Investment banking, asset management, commercial banking, and financial advisory services.",
+        "media": "Covers financial news, market insights, and reports related to wealth management and investment trends."
+    },
+    {
+        "client": "goldmansachs",
+        "about_us": "Goldman Sachs is an American investment bank and financial services company, providing a range of financial services.",
+        "services_offered": "Investment banking, securities, asset management, and consumer financial services.",
+        "media": "Features financial analysis, market insights, and news on investments, finance, and economic trends."
+    },
+    {
+        "client": "morganstanley",
+        "about_us": "Morgan Stanley is a global financial services firm offering investment banking, securities, wealth management, and investment management.",
+        "services_offered": "Wealth management, investment banking, asset management, and research services.",
+        "media": "Covers financial news, market trends, and insights related to wealth management and global finance."
+    },
+    {
+        "client": "bankofamerica",
+        "about_us": "Bank of America is a multinational banking and financial services corporation, offering a wide range of banking services.",
+        "services_offered": "Personal and business banking, loans, credit cards, wealth management, and investment services.",
+        "media": "Provides financial news, updates on market trends, and resources for personal and business banking."
+    },
+    {
+        "client": "wellsfargo",
+        "about_us": "Wells Fargo is an American multinational financial services company providing banking, investment, and mortgage products and services, as well as consumer and commercial finance.",
+        "services_offered": "Personal and business banking, loans, mortgages, wealth management, and insurance services.",
+        "media": "Features financial news, insights on banking, and resources for managing personal and business finances."
+    },
+    {
+        "client": "citi",
+        "about_us": "Citi is a leading global bank, offering a range of financial products and services to consumers, corporations, governments, and institutions.",
+        "services_offered": "Banking, credit cards, loans, wealth management, and financial advisory services.",
+        "media": "Provides news on global financial trends, credit tips, and resources for managing finances."
+    },
+    {
+        "client": "charles",
+        "about_us": "Charles Schwab is an American multinational financial services company that offers a range of investment and banking services.",
+        "services_offered": "Brokerage and investment advisory, retirement planning, wealth management, and financial research.",
+        "media": "Covers market insights, investment strategies, and financial planning tips."
+    },
+    {
+        "client": "scotiabank",
+        "about_us": "Scotiabank is a leading bank in Canada, providing a wide array of financial products and services to individuals and businesses.",
+        "services_offered": "Personal banking, business banking, loans, credit cards, and wealth management services.",
+        "media": "Includes updates on financial products, investment insights, and market news."
+    },
+    {
+        "client": "rbc",
+        "about_us": "The Royal Bank of Canada (RBC) is one of Canada's largest banks, providing financial services to individuals, businesses, and institutions.",
+        "services_offered": "Banking, loans, credit cards, wealth management, and insurance services.",
+        "media": "Features news on economic trends, personal finance, and insights into wealth management."
+    },
+    {
+        "client": "td",
+        "about_us": "TD Bank Group is a major North American bank offering a range of financial services to individuals and businesses.",
+        "services_offered": "Personal banking, business banking, wealth management, mortgages, and insurance.",
+        "media": "Provides news on financial products, investment advice, and market analysis."
+    },
+    {
+        "client": "americanexpress",
+        "about_us": "American Express is a multinational financial services corporation known for its credit card, charge card, and travel-related services.",
+        "services_offered": "Credit cards, personal loans, business services, and travel benefits.",
+        "media": "Covers topics related to travel, rewards, credit management, and financial planning."
+    },
+    {
+        "client": "toyota",
+        "about_us": "Toyota is a Japanese multinational automotive manufacturer known for producing reliable and innovative vehicles.",
+        "services_offered": "Vehicle sales, financing, leasing, and repair services.",
+        "media": "Features vehicle news, model updates, sustainability initiatives, and multimedia content on new car releases."
+    },
+    {
+        "client": "honda",
+        "about_us": "Honda is a Japanese public multinational conglomerate primarily known for manufacturing automobiles, motorcycles, and power equipment.",
+        "services_offered": "Sales of vehicles, motorcycles, power equipment, and financial services.",
+        "media": "Covers vehicle innovations, sustainability efforts, and multimedia on new models and technologies."
+    },
+    {
+        "client": "bmw",
+        "about_us": "BMW is a German multinational corporation that produces luxury vehicles and motorcycles.",
+        "services_offered": "Luxury vehicle sales, financing, leasing, and maintenance services.",
+        "media": "Features updates on luxury cars, sustainability projects, and multimedia content showcasing new models."
+    },
+    {
+        "client": "audi",
+        "about_us": "Audi is a German automobile manufacturer that designs, engineers, produces, and markets luxury vehicles.",
+        "services_offered": "Sales and leasing of luxury cars, financing, and maintenance services.",
+        "media": "Highlights new car launches, technology advancements, and multimedia on luxury automotive designs."
+    },
+    {
+        "client": "ford",
+        "about_us": "Ford is an American multinational automaker that designs, manufactures, and sells vehicles and automotive parts.",
+        "services_offered": "Vehicle sales, financing, leasing, repair, and maintenance services.",
+        "media": "Covers updates on vehicle technology, sustainability, and multimedia on Ford's vehicle lineup."
+    },
+    {
+        "client": "chevrolet",
+        "about_us": "Chevrolet, colloquially known as Chevy, is an American automobile division of the American manufacturer General Motors.",
+        "services_offered": "Vehicle sales, financing, leasing, and maintenance services.",
+        "media": "Features car news, model releases, and multimedia content on Chevrolet's vehicle innovations."
+    },
+    {
+        "client": "mercedes",
+        "about_us": "Mercedes-Benz is a German luxury automotive brand known for its high-quality cars and innovative technology.",
+        "services_offered": "Luxury vehicle sales, financing, leasing, and automotive services.",
+        "media": "Covers luxury car news, innovations, and multimedia content showcasing new Mercedes-Benz models."
+    },
+    {
+        "client": "lexus",
+        "about_us": "Lexus is the luxury vehicle division of the Japanese automaker Toyota, known for its quality and luxury standards.",
+        "services_offered": "Sales and leasing of luxury vehicles, financing, and maintenance services.",
+        "media": "Highlights model releases, luxury features, and multimedia on the Lexus vehicle lineup."
+    },
+    {
+        "client": "hyundai",
+        "about_us": "Hyundai is a South Korean multinational automotive manufacturer known for affordable and high-quality vehicles.",
+        "services_offered": "Vehicle sales, financing, leasing, and repair services.",
+        "media": "Covers automotive news, model innovations, and multimedia showcasing Hyundai's latest cars."
+    },
+    {
+        "client": "volkswagen",
+        "about_us": "Volkswagen is a German automobile manufacturer, one of the world's leading car brands.",
+        "services_offered": "Vehicle sales, financing, leasing, and repair services.",
+        "media": "Features updates on new models, technology innovations, and multimedia on Volkswagen's cars."
+    },
+    {
+        "client": "kia",
+        "about_us": "Kia is a South Korean automobile manufacturer known for producing reliable and affordable vehicles.",
+        "services_offered": "Sales of vehicles, financing, leasing, and automotive services.",
+        "media": "Covers model releases, automotive trends, and multimedia on Kia's car lineup."
+    },
+    {
+        "client": "tesla",
+        "about_us": "Tesla is an American electric vehicle and clean energy company known for its innovative electric cars and renewable energy products.",
+        "services_offered": "Electric vehicle sales, energy products, financing, and maintenance services.",
+        "media": "Features news on electric vehicle innovations, sustainability efforts, and multimedia on Tesla's technology."
+    },
+    {
+        "client": "generalmotors",
+        "about_us": "General Motors (GM) is an American multinational automotive corporation known for brands like Chevrolet, Cadillac, GMC, and Buick.",
+        "services_offered": "Vehicle sales, financing, leasing, and maintenance services.",
+        "media": "Covers updates on vehicle technology, sustainability initiatives, and multimedia on GM's brands."
+    },
+    {
+        "client": "nissan",
+        "about_us": "Nissan is a Japanese multinational automobile manufacturer, producing cars renowned for performance and innovation.",
+        "services_offered": "Vehicle sales, financing, leasing, and repair services.",
+        "media": "Features updates on Nissan's technology, model releases, and multimedia showcasing their cars."
+    },
+    {
+        "client": "fiat",
+        "about_us": "Fiat is an Italian automobile manufacturer known for producing small city cars and other affordable vehicles.",
+        "services_offered": "Vehicle sales, financing, and automotive services.",
+        "media": "Highlights car releases, design features, and multimedia content on Fiat's car lineup."
+    },
+    {
+        "client": "mitsubishi",
+        "about_us": "Mitsubishi Motors is a Japanese multinational automotive manufacturer known for producing a wide range of vehicles.",
+        "services_offered": "Sales of vehicles, financing, and maintenance services.",
+        "media": "Features updates on car models, technology, and multimedia showcasing Mitsubishi vehicles."
+    },
+    {
+        "client": "subaru",
+        "about_us": "Subaru is a Japanese automobile manufacturer known for producing all-wheel-drive vehicles and performance models.",
+        "services_offered": "Vehicle sales, financing, leasing, and repair services.",
+        "media": "Provides news on new models, technology, and multimedia on Subaru's unique vehicles."
+    },
+    {
+        "client": "mazda",
+        "about_us": "Mazda is a Japanese automobile manufacturer known for its high-performing and fuel-efficient vehicles.",
+        "services_offered": "Sales and leasing of vehicles, financing, and repair services.",
+        "media": "Features model updates, automotive technology, and multimedia content on Mazda's car lineup."
+    },
+    {
+        "client": "volvo",
+        "about_us": "Volvo is a Swedish multinational automotive manufacturer known for producing luxury vehicles with a focus on safety.",
+        "services_offered": "Luxury vehicle sales, financing, leasing, and maintenance services.",
+        "media": "Highlights model releases, safety features, and multimedia on Volvo's lineup."
+    },
+    {
+        "client": "jaguar",
+        "about_us": "Jaguar is a British luxury vehicle brand known for producing high-performance and premium vehicles.",
+        "services_offered": "Sales and leasing of luxury cars, financing, and repair services.",
+        "media": "Showcases new luxury cars, technology, and multimedia on Jaguar's vehicle offerings."
+    },
+    {
+        "client": "landrover",
+        "about_us": "Land Rover is a British brand of predominantly four-wheel-drive, off-road capable vehicles.",
+        "services_offered": "Sales of luxury SUVs, financing, leasing, and repair services.",
+        "media": "Features updates on SUV models, technology, and multimedia on Land Rover's rugged vehicles."
+    },
+    {
+        "client": "chrysler",
+        "about_us": "Chrysler is an American automobile brand producing reliable vehicles, particularly minivans and sedans.",
+        "services_offered": "Vehicle sales, financing, leasing, and maintenance services.",
+        "media": "Covers new model releases, design features, and multimedia on Chrysler's vehicles."
+    },
+    {
+        "client": "lincoln",
+        "about_us": "Lincoln is the luxury vehicle division of the American car manufacturer Ford, offering a range of premium vehicles.",
+        "services_offered": "Luxury vehicle sales, financing, leasing, and maintenance services.",
+        "media": "Highlights luxury vehicle updates, features, and multimedia on Lincoln's model lineup."
+    },
+    {
+        "client": "rollsroyce",
+        "about_us": "Rolls-Royce is a British luxury automobile maker renowned for producing high-end, custom luxury vehicles.",
+        "services_offered": "Custom luxury car sales, bespoke design services, and exclusive customer services.",
+        "media": "Features luxury vehicle design, customization, and multimedia on Rolls-Royce's prestigious cars."
+    },
+    {
+        "client": "bentley",
+        "about_us": "Bentley is a British manufacturer of luxury cars, known for creating high-performance and exquisite vehicles.",
+        "services_offered": "Luxury vehicle sales, financing, and bespoke customization services.",
+        "media": "Showcases luxury car models, performance, and multimedia content on Bentley's exclusive cars."
+    },
+    {
+        "client": "genesis",
+        "about_us": "Genesis is the luxury vehicle division of Hyundai, offering a premium range of vehicles.",
+        "services_offered": "Luxury vehicle sales, leasing, financing, and maintenance services.",
+        "media": "Highlights new model releases, luxury features, and multimedia on Genesis vehicles."
+    },
+    {
+        "client": "bugatti",
+        "about_us": "Bugatti is a French luxury automobile brand known for producing high-performance, exclusive sports cars.",
+        "services_offered": "High-performance sports car sales and customization options for an exclusive clientele.",
+        "media": "Features luxury sports car designs, performance, and multimedia content on Bugatti's models."
+    },
+    {
+        "client": "mini",
+        "about_us": "MINI is a British automotive marque owned by BMW, known for producing compact and stylish cars.",
+        "services_offered": "Vehicle sales, financing, leasing, and repair services.",
+        "media": "Showcases model updates, design features, and multimedia on MINI's compact cars."
+    },
+    {
+        "client": "ram",
+        "about_us": "Ram is a brand of trucks and vans by Stellantis, known for producing durable and powerful vehicles.",
+        "services_offered": "Truck and van sales, financing, leasing, and repair services.",
+        "media": "Highlights truck model updates, performance features, and multimedia on Ram vehicles."
+    },
+    {
+        "client": "alfa",
+        "about_us": "Alfa Romeo is an Italian luxury car manufacturer known for its sporty and high-performance vehicles.",
+        "services_offered": "Sales of luxury sports cars, financing, leasing, and repair services.",
+        "media": "Features updates on sports car models, performance, and multimedia content on Alfa Romeo's lineup."
+    },
+    {
+        "client": "jeep",
+        "about_us": "Jeep is an American automobile marque known for its range of rugged SUVs and off-road vehicles.",
+        "services_offered": "Sales of SUVs, financing, leasing, and repair services.",
+        "media": "Covers new model releases, off-road capabilities, and multimedia on Jeep's iconic vehicles."
+    }
+
+
+
+
+
+]
